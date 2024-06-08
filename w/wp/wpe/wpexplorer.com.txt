@@ -1,0 +1,34 @@
+The following text is extracted and transformed from the wpexplorer.com privacy policy that was archived on 2019-12-25. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy Policy
+At www.wpexplorer.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.wpexplorer.com and how it is used.
+Log Files
+Like many other Web sites, www.wpexplorer.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Cookies & Data
+We use cookies on WPExplorer.com. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. Cookies may also enable us to track and target user interests to improve experience on our website in the future.
+We don’t collect personal information unless it is needed (ex, newsletter)
+We don’t share your personal information except to comply with the law
+We don’t store your personal information on our servers unless it’s required to operate one of our website services (ex, comments)
+Usage of a cookie is in no way linked to any personally identifiable information about you. Any personal information is only collected when you voluntarily provide it, such as providing your email address to subscribe to a newsletter.
+The following is a list of possible cookies and data collected when using WPExplorer. Please refer to each service’s privacy policy for more information on the exact types of data collected:
+Google Analytics: _ga, _gid and _gat_gtag cookie data kept 26 months
+Cloudflare: _cfduid cookie data
+MailChimp: email address kept until you unsubscribe
+Rafflecopter: name, email address kept until a giveaway promotion winner is announced
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+Disable Cookies in Chrome
+Disable Cookies in Firefox
+Disable Cookies in Safari
+Disable Cookies in Internet Explorer
+Newsletter
+WPExplorer does maintain a newsletter which visitors may signup for voluntarily using the subscription form in out footer and at the end of blog posts. To subscribe you must provide your email address via the MailChimp subscription form and confirm subscription using the double-optin form. By subscribing to the WPExplorer.com newsletter you consent to receiving occasional emails from WPExplorer. WPExplorer does not share your information.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. Please see the Gravatar service privacy policy for more information. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+We use Akismet on WPExplorer to help prevent spam. Any comments submitted through this service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives. Click here to learn how your comment data is processed by the Akismet service.
+WPExplorer also uses Subscribe to Comments Reloaded to manage comment subscriptions. By providing your email address you consent to receiving new comment or comment reply notifications for the post based on your selection. Your email will only be used for these notifications.
+Protection of Information
+WPExplorer.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
+Your Data Rights
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+To cancel a comment subscription or to remove your information please refer to your original Subscribe to Comments Reloaded subscription email, click the link to view your subscription, then check the subscription(s) you would like to remove and select the “Unsubscribe” action. Your subscription (and associated information) will be removed from WPExplorer. If you cannot locate this email, please fee free to contact us at hello[at]wpexplorer(dot)com with the subject “Comments Subscription Data Removal Request” and we will manually delete your information from our site.
+Privacy Policy Changes
+WPExplorer reserves the right to change this policy at any time. We encourage visitors to check this page for Privacy Policy updates regularly. Continued use of this website after any change in this Privacy Policy will constitute your acceptance of such change.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us at hello[at]wpexplorer(dot)com.

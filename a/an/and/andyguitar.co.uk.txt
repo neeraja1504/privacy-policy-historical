@@ -1,0 +1,150 @@
+The following text is extracted and transformed from the andyguitar.co.uk privacy policy that was archived on 2018-06-27. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy Policy | Andy Guitar
+Introduction
+We are committed to safeguarding the privacy of our website visitors and service users.
+This policy applies where we are acting as a data controller with respect to the personal data of our website visitors and service users; in other words, where we determine the purposes and means of the processing of that personal data.
+We use cookies on our website. Insofar as those cookies are not strictly necessary for the provision of our website and services, we will ask you to consent to our use of cookies when you first visit our website.
+In this policy, "we", "us" and "our" refer to Andy Guitar Limited. For more information about us, see Section 17.
+How we use your personal data
+In this Section 2 we have set out:
+the general categories of personal data that we may process;
+the purposes for which we may process personal data; and
+the legal bases of the processing.
+How we use your personal data depends on your relationship with us:
+"Company Customer" - a customer of our company, including those who have submitted an order through the online shop.
+"Event Attendee" - a person who has attended or plans to attend an event.
+"Team Member" - a team member of our company who assists with service delivery.
+"Website Account Holder" - any user of the website who has an account on the website.
+"Website Visitor" - any user of the website who does not have an account, or has an account but is not logged in.
+We may process the "Financial Records" of a Company Customer - namely a history of the orders of a particular account holder, including records of orders, invoices, payments and shopping carts. Keeping this information is a legal requirement under company law and also necessary to deliver products to customers. The personal data required includes name, address, telephone number and company name where applicable. This data may be shared with the Controller's accountant, HMRC and Companies House as required by the obligation of UK companies to keep adequate records - https://www.legislation.gov.uk/ukpga/2006/46/part/15/chapter/2.
+The legal basis for this processing is Legal Obligation.
+We may process the "Event Attendance" of a Event Attendee - namely personal data in the form of event bookings and attendance of a particular account holder. This data is used to serve account holders a history of the course material covered at events, allow account holders to book attendance at a future event and for record keeping of the Controller. This data may be shared with the Controller's accountant, HMRC and Companies House as required by the obligation of UK companies to keep adequate records - https://www.legislation.gov.uk/ukpga/2006/46/part/15/chapter/2.
+The legal basis for this processing is Legal Obligation.
+We may process the "Team Membership" of a Team Member - namely records of account holders who are part of a team which delivers events. This data is shared on the public web page of a particular event, which involves the specific team member's first name and profile image being shared publicly.
+The legal basis for this processing is Legitimate Interest.
+We may process the "User Account" of a Website Account Holder - namely the information you provide to create or edit your user account, which may include name, email, telephone, profile picture, profile description, occupation, company name, interest in the website and your bookmarked lessons. Your account data may be shared with our staff to assist with account or service enquiries. Personal data may also be processed in the delivery of our private messaging system, calendar system and to-do list service.
+The legal basis for this processing is Consent.
+We may process the "Talk Posts" of a Website Account Holder - namely the information you provide when adding a talk post to the website. A published talk post is displayed publicly on the internet with your first name, profile description, and your profile picture if you have uploaded one.
+The legal basis for this processing is Consent.
+We may process the "Talk Interests" of a Website Account Holder - namely information about your interest in the talk system, such as posts you are following or categories that interest you. This information is used to notify you of new talk posts or comments that might interest you and is never shared with someone else.
+The legal basis for this processing is Consent.
+We may process the "Talk Comments" of a Website Account Holder - namely the information you provide when adding a comment to a talk post. A talk comment is displayed publicly on the internet with your first name, and your profile picture if you have uploaded one.
+The legal basis for this processing is Consent.
+We may process the "Song Requests" of a Website Account Holder - namely the information you provide when requesting a song on the website or upvoting another request. Your song requests are shared with other account holders on the website including your first name and your profile picture if you have uploaded one. This information is used to notify you when song requests are completed.
+The legal basis for this processing is Consent.
+We may process the "Website Sessions" of a Website Account Holder - namely technical data about users logged in to the website including IP address, device information, and a last access date. This personal data is processed to allow users to login to the website and close inactive sessions.
+The legal basis for this processing is Legitimate Interest.
+We may process the "Website Logs" of a Website Account Holder - namely technical data about use of the website including IP address, pages served, actions taken and error messages. This personal data is processed to reduce errors, develop the user experience and improve security of personal data.
+The legal basis for this processing is Legitimate Interest.
+We may process the "System Emails" of a Website Account Holder - namely technical data about emails sent by the website to account holders, which is processed to maintain a record of system generated communication with users to reduce errors and improve user experience.
+The legal basis for this processing is Legitimate Interest.
+We may process the "Website Logs" of a Website Visitor - namely technical data about use of the website including IP address, pages served, actions taken and error messages. This personal data is processed to reduce errors, develop the user experience and improve security of personal data.
+The legal basis for this processing is Legitimate Interest.
+We may process any of your personal data identified in this policy where necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights and the legal rights of others.
+In addition to the specific purposes for which we may process your personal data set out in this Section 2, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+Please do not supply any other person's personal data to us, unless we prompt you to do so.
+Providing your personal data to others
+In addition to the specific disclosures of personal data set out in this Section 3, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+International transfers of your personal data
+In this Section 4, we provide information about the circumstances in which your personal data may be transferred to countries outside the European Economic Area (EEA).
+The hosting facilities for our website are situated in Ireland.
+You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.
+We use Amazon Web Services CloudFront CDN to cache data on servers local to users around the world so that the cached resources load quickly. This means that personal data you provide to us in the form of images and other static assets, may be stored for a short time on servers in countries outside of the European Economic Area (EEA). Transfers to each of these countries will be protected by appropriate safeguards, namely the use of standard data protection clauses adopted or approved by the European Commission. Amazon Web Services are fully compliant with the GDPR - https://aws.amazon.com/compliance/gdpr-center/.
+Retaining and deleting personal data
+This Section 5 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.
+Personal data that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+We will retain your personal data as follows:
+The Financial Records of a Company Customer will be retained for 7 years.
+The Event Attendance of a Event Attendee will be retained for 7 years.
+The Team Membership of a Team Member will be retained for 2 years.
+The User Account of a Website Account Holder will be retained until the user withdraws consent.
+The Talk Posts of a Website Account Holder will be retained until the user withdraws consent.
+The Talk Interests of a Website Account Holder will be retained until the user withdraws consent.
+The Talk Comments of a Website Account Holder will be retained until the user withdraws consent.
+The Song Requests of a Website Account Holder will be retained until the user withdraws consent.
+The Website Sessions of a Website Account Holder will be retained for 1 month.
+The Website Logs of a Website Account Holder will be retained for 2 years.
+The System Emails of a Website Account Holder will be retained for 3 months.
+The Website Logs of a Website Visitor will be retained for 1 year.
+Notwithstanding the other provisions of this Section 5, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+Security of personal data
+We will take appropriate technical and organisational precautions to secure your personal data and to prevent the loss, misuse or alteration of your personal data.
+We will store all your personal data on secure servers, personal computers and mobile devices, and in secure manual record-keeping systems.
+The following personal data will be stored by us in encrypted form: password(s).
+Data relating to browsing requests that is sent from your web browser to our web server, or from our web server to your web browser, will be protected using encryption technology.
+You acknowledge that the transmission of unencrypted (or inadequately encrypted) data over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+You should ensure that your password is not susceptible to being guessed, whether by a person or a computer program. You are responsible for keeping the password you use for accessing our website confidential and we will not ask you for your password (except when you log in to our website).
+Amendments
+We may update this policy from time to time by publishing a new version on our website.
+You should check this page occasionally to ensure you are happy with any changes to this policy.
+We may notify you of significant changes to this policy by email or through the private messaging system on our website.
+Your rights
+In this Section 8, we have summarised the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
+Your principal rights under data protection law are:
+the right to access;
+the right to rectification;
+the right to erasure;
+the right to restrict processing;
+the right to object to processing;
+the right to data portability;
+the right to complain to a supervisory authority; and
+the right to withdraw consent.
+You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee.
+You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.
+In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defence of legal claims.
+In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defence of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defence of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.
+You have the right to object to our processing of your personal data on grounds relating to your particular situation, but only to the extent that the legal basis for the processing is that the processing is necessary for: the performance of a task carried out in the public interest or in the exercise of any official authority vested in us; or the purposes of the legitimate interests pursued by us or by a third party. If you make such an objection, we will cease to process the personal information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing is for the establishment, exercise or defence of legal claims.
+You have the right to object to our processing of your personal data for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.
+You have the right to object to our processing of your personal data for scientific or historical research purposes or statistical purposes on grounds relating to your particular situation, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
+To the extent that the legal basis for our processing of your personal data is:
+consent; or
+that the processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract,
+and such processing is carried out by automated means, you have the right to receive your personal data from us in a structured, commonly used and machine-readable format. However, this right does not apply where it would adversely affect the rights and freedoms of others.
+If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.
+To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.
+You may exercise any of your rights in relation to your personal data by contacting us by email, in writing, or using our website contact form.
+Third party websites
+Our website includes hyperlinks to, and details of, third party websites.
+We have no control over, and are not responsible for, the privacy policies and practices of third parties.
+Personal data of children
+Our website and services are targeted at persons over the age of 18.
+If we have reason to believe that we hold personal data of a person under that age in our databases, we will delete that personal data.
+Updating information
+Please let us know if the personal information that we hold about you needs to be corrected or updated.
+About cookies
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+Cookies that we use
+We use cookies for the following purposes:
+authentication - we use cookies to identify you when you visit our website and as you navigate our website (cookies used for this purpose are: PHPSESSID);
+status - we use cookies to help us to determine if you are logged into our website (cookies used for this purpose are: SESSION);
+security - we use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally (cookies used for this purpose are: IDENTITY); and
+cookie consent - we use cookies to store your preferences in relation to the use of cookies more generally (cookies used for this purpose are: COOKIESASKED, COOKIESVIDEO, COOKIESAUDIO, COOKIESANALYTIC, COOKIESMARKETING).
+Cookies used by our service providers
+Our service providers use cookies and those cookies may be stored on your computer when you visit our website.
+We use YouTube to embed videos directly into our web pages. YouTube use multiple cookies to collect or receive information about you when you play an embedded YouTube video on our website. YouTube is a service provided by Google and their privacy policy is available at: https://www.google.com/policies/privacy/.
+We use Spotify to embed music playlists directly into our web pages. Spotify use multiple cookies to collect or receive information about you when you view an embedded Spotify playlist on our website. Spotify's privacy policy is available at: https://www.spotify.com/uk/legal/privacy-policy/.
+We use Google Analytics to analyse the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: https://www.google.com/policies/privacy/.
+We use Pingdom to check the availability of the website and to monitor how quickly the website loads. Pingdom gathers information about website use by means of cookies. The information allows us to ensure that the website loads for you as quickly as possible. Pingdom is a service provided by Solar Winds and their privacy policy is available at: https://www.solarwinds.com/legal/privacy#privacy.
+We use Facebook to serve your relevant adverts from our Facebook Business Page. Facebook use the Facebook Pixel to collect or receive information about your browsing habits and use that information to provide measurement services, and targeted adverts, as described in the Facebook Data Policy. You can opt-out of the collection and use of information for advert targeting across all the websites you visit here - http://www.aboutads.info/choices.
+We use PayPal to process payments in our online shop. PayPal use necessary cookies to identify you in order to provide a secure payment gateway, and streamline your checkouts, as described in their privacy policy - https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev.
+Managing cookies
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
+https://support.google.com/chrome/answer/95647?hl=en (Chrome);
+https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox);
+http://www.opera.com/help/tutorials/security/cookies/ (Opera);
+https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies (Internet Explorer);
+https://support.apple.com/kb/PH21411 (Safari); and
+https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge).
+Blocking all cookies will have a negative impact upon the usability of many websites.
+If you block cookies, you will not be able to use all the features on our website.
+Cookie preferences
+You can manage your preferences relating to the use of cookies on our website by visiting: https://www.andyguitar.co.uk/cookies/
+Our details
+This website is owned and operated by Andy Guitar Limited.
+We are registered in England and Wales under registration number 08762156, and our registered office is at PO BOX 5467, Brighton, United Kingdom, BN50 8NA.
+You can contact us:
+by post, to PO BOX 5467, Brighton, United Kingdom, BN50 8NA;
+by email, using info@andyguitar.co.uk; or
+using our website contact form.

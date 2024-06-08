@@ -1,0 +1,162 @@
+The following text is extracted and transformed from the 4d.com privacy policy that was archived on 2019-03-22. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Cookie policy | 4D
+When consulting a site in the 4D.com domain, cookies are stored on your computer, tablet or smartphone. This section allows you to better understand how cookies work and how to use the available tools to configure them.
+1. What is a cookie
+Cookies are small text files or pieces of information stored on your computer or mobile device ( e.g. smartphone or tablet) when you visit our sites.
+A cookie usually contains the name of the website from which it came, the "lifetime" of the cookie ( i.e. how long the cookie will remain on your device), and a value (usually a randomly generated unique number).
+Some cookies are essential to the use of the site, others allow optimizing and personalizing the displayed content.
+2. Who installs cookies?
+Cookies on our site may be used by 4D or by third parties.
+The cookies used by 4D are essentially those related to the operation of our website. The others are third-party cookies used by our partners. The distribution and use of cookies by third parties are subject to their own cookie policies.
+Our partners are requested to comply with the Data Processing and Civil Liberties law of 6 January 1978 as amended and the General Data Protection Regulation (EU) 2016/679 on the protection of personal data.
+Only the issuer of a cookie can read the information contained therein.
+4D informs you of the purpose of the third-party cookies of which we are aware and the means available to make decisions about them.
+3. How and why do we use cookies?
+We use three categories of cookies. Their purposes are described below.
+4D does not use cookies to collect personally identifiable information.
+3.1 Cookies strictly necessary for the functioning of the 4D.com site
+These cookies are essential for browsing our site and allow you to use the main features of the site and secure your connection.
+They allow you, for example, to directly access the reserved and personal areas of our site, thanks to identifiers or data that you may have previously entrusted to us.
+Without these cookies you will not be able to use the site correctly, so we advise that you do not delete them. These cookies are exclusively used by 4D.
+The access cookies we use:
+Cookie Name | Function | Duration
+---|---|---
+WWWSessionID
+|
+Session cookie created when you’re authenticated to the website
+|
+2 hours
+SESSXXXXX
+|
+Authentication cookie. Once authenticated, you do not need to re-authenticate for the duration of the cookie.
+|
+23 days
+3.2 Functionality cookies
+These cookies are not essential for the navigation of our site, but allow us to optimize its performance and give you access to specific functionalities.
+They also allow you to adapt the layout of our site to the display preferences of your device, allowing  you to have a smooth and customized navigation.
+Storing cookies on your device is the easiest and fastest way to personalize and enhance your user experience.
+These cookies are used exclusively by 4D.
+Our functionality cookies:
+Cookie Name | Function | Duration
+---|---|---
+cookie-agreed
+|
+Let us know if you have accepted cookies
+|
+2 years
+tarteaucitron
+|
+Allows you to know your "accept or refuse" selection for some or all third-party cookies
+|
+1 year
+3.3 Third Party Cookies
+3.3.1 Audience measurement cookies
+We use Google Analytics to collect information about your use of  sites on the 4d.com domain.
+Why?
+To help us measure and study the effectiveness of our interactive online content
+To track the analytical data on the site and how the site is used
+To improve the content and ergonomics of our services (the pages or the sections most often consulted, the most read articles, etc.)
+To allow us to count the visitors of a page
+Google Analytics collects information on:
+The pages you visit and how much time you spend on them
+The way you arrived on the site (referring site, social networks, search engine, etc.)
+The links clicked on the site during the visit
+Name | Utility | Expires
+---|---|---
+_ga
+|
+Used to distinguish users.
+|
+2 years
+_gat
+|
+Used to throttle request rate.
+|
+1 minute
+_gid
+|
+Used to distinguish users.
+|
+24 hours
+We do not collect your personal information (such as your name or address).
+We do not allow Google Analytics to use or share this data.
+3.3.2. The Marketo third-party cookie
+Name | Utility | Expire
+---|---|---
+_mkto_trk
+|
+statistics
+|
+2 years
+We use the Marketo system to track various data about the actions of users on our websites. It allows us to offer content or services that meet your specific needs.
+Cookies stored by the Marketo server are only readable by Marketo. For more information on Marketo cookies and their use,  click here .
+3.3.3 Crazyegg third-party cookies
+We use Crazyegg to track various data about the actions of visitors on our websites in order to optimize your user experience.
+Cookies stored by the Crazyegg server are only readable by Crazyegg. For more information on Crazyegg cookies and their use, click here.
+Name | Utility | Expire
+---|---|---
+_ceir
+|
+Tracks if a visitor has been to the site before
+|
+5 years
+_ceg.s
+|
+Tracks visitor sessions
+|
+3 months
+_ceg.u
+|
+Tracks unique visitors on our site
+|
+3 months
+4. Personal data collected automatically
+When browsing 4D sites, your computer will interact with a server which provides all requested resources. It does so by automatically saving each operation to a specific file where your computer is identified by its IP address.
+Your browser automatically sends us some standard data.
+In addition to your IP address, it sends the type of browser you use, its features, your operating system, identification of third party sites (Facebook, Twitter, etc.) from which you are possibly connected as well as dates and times of access to the site.
+This automatic collection allows us to monitor the general activity of the site, identify possible errors, and ensure that the site has the appropriate material resources.
+This data, and in particular your IP address, does not allow us to identify you by name, except by requesting it from your service provider. This is only possible in the context of a legal proceeding.
+We automatically collect information during each visit you make to our sites (pages, links, documents consulted, number of bytes transferred, etc.).
+This information helps facilitate the consultation of our sites by not requiring you to provide the same information for each new visit or by personalizing content according to the preferences or interests that you may have set.
+For this reason, our sites issue cookies.
+We may use cookies to record your user ID (digital identity) to facilitate your search for information and your connection to our sites, as well as to keep other information of interest for the functioning of your session.
+Some of these cookies, especially those relating to your visit, are automatically deleted at the end of your session.
+They are kept within the time frames set by the CNIL for soliciting customers and prospects.
+Finally, other cookies are used in an aggregated way and are therefore anonymous. These allow us to improve navigation ergonomics and to identify the interests of internet users as a whole.
+You are free to accept or refuse these cookies. You only need to modify your browser settings to refuse cookies or to be notified if a cookie is stored on your computer.
+You can also delete cookies stored on your computer to permanently delete the information they contain.
+5.    Cookie management
+You have different ways to manage cookies.
+You can always choose to disable these cookies. You can accept or reject them on a case-by-case basis or refuse them once and for all.
+Reminder: These settings are likely to change your conditions of access to our services requiring the use of cookies.
+Depending on the type of cookies you want to disable, you can express your choice:
+5.1  Via a 4D site feature
+For the main 4D websites such as us.4d.com and fr.4d.com, a specific feature can be used to manage your cookie preferences.
+Accessing this feature can be done here
+5.2 Via your browser settings
+Most browsers accept cookies by default. However, you may decide to block these cookies or ask your browser to do it for you.
+You can accept or refuse cookies on a case-by-case basis or refuse them systematically.
+To change how your browser manages cookies, you can modify the settings in the privacy tab.
+Be careful, some features of the site may no longer work.
+The configuration of each browser is different. It is described in the help menu of your browser, which will let you to know how to modify your cookie settings.
+For Chrome
+https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en
+For Internet Explorer
+http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-Cookies
+For Firefox
+http://support.mozilla.org/fr/kb/cookies-informations-sites-enregistrent?redirectlocale=fr&redirectslug=Gérer+les+cookies
+For Safari
+https://support.apple.com/fr-fr/guide/safari/sfri11471/mac
+5.3 Via opt-out links for analytic cookies
+You can find more information about analytic cookies, including how to disable them, by following the links below:
+For Google Analytics cookies:
+https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+For Xiti (AT Internet) cookies:
+http://www.xiti.com/fr/optout.aspx
+6. Transfers of personal data outside the European Union
+Since some of our partners are located outside of the European Union, the data collected may be transferred to countries that are not members it. These countries’ legislation on the protection of personal data may differ from that of the European Union.
+In this case, 4D implements measures to ensure the security and confidentiality of this data and verify that this transfer complies with legal requirements, in order to guarantee a sufficient level of protection.
+Please note that we strictly require our partners to only use your personal data to manage or provide requested services.
+We also ask these partners to always act in accordance with applicable laws regarding the protection of personal data and to pay special attention to the confidentiality of such data.
+For more information about cookies:
+For more information about cookies, you can go to the CNIL website at this address: http://www.cnil.fr/vos-droits/vos-traces/les-cookies/

@@ -1,0 +1,281 @@
+The following text is extracted and transformed from the tellymix.co.uk privacy policy that was archived on 2019-04-10. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy and Cookies Policy | TellyMix
+Last revised: 25th May 2018
+This policy explains in detail how TellyMix (hereinafter "tellymix", "us", "we", "our") use any information collected during any visit by you (hereinafter "your", "visitor", “user")
+We collect and process personal information in line with the The EU general data protection regulation (GDPR) in the following instances only:
+Contact forms
+When you contact us we ask for your name and email address along with your query. We need this information in order to act on your query, covered by Article 6 (1) b) GDPR.
+In addition, we store your IP address. Your IP address is logged for security and operating purposes (e.g. to block spam messages) under Article 6 (1) f) GDPR.
+The above information is stored for 30 days before being automatically deleted. If you wish for this information to be deleted before then, please contact us (see below).
+Server logs
+Our web server logs certain pieces of information when you visit a web page. This information includes your anonymised IP address, the page you visit and diagnostic information such as your web browser, web browser’s user agent and your operating system.
+This not personal identifiable information is stored for up to one month and processed for error correction, troubleshooting and security purposes in our legitimate interest under Article 6 (1) f) GDPR to protect and provide reliable and error-free access to our website.
+Website statistics
+We log information when you visit any of our websites. This information includes the pages you visit, your browser and operating system information and plug-in information.
+None of this information identifies you personally.
+This information is kept for up to one month on our server. The information is then processed and analysed to produce website statistics. We use these statistics to enhance your browsing experience by creating pages tuned to specific browsers and operating systems. We may also use the information collected to administer and troubleshoot technical problems.
+Mailing lists
+We operate mailing lists to send news updates. When you sign up you are asked to provide an email address. In addition, the time and date of sign up and your IP address is stored.
+We need this information in order to provide you with the email updates you have consented to (Article 6 (1) a) GDPR, (Article 6 (1) b) GDPR)), as well as to combat spam and abuse (Article 6 (1) f) GDPR).
+This information is shared with MailChimp in the United States. Mail Chimp are a certified to the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework.
+This information is stored for as long as you wish to be signed up to the mailing list. You can opt-out and have your personal information removed by clicking the link in any of the emails sent. Alternatively, you can request manual removal by contacting us (see below).
+When you are removed from the mailing list, all traces of your personal information is deleted by MailChimp.
+You can find MailChimp's Privacy Policy here and terms here.
+Advertising
+We use third party ad companies to display advertisements on our websites. With your consent, these outside companies use cookies and other information gathering methods to deliver targeted ads to you.
+Google and our advertising partners (see below), as a third party vendor, uses cookies to serve ads on our websites. Google Adsense will place and use cookies when serving adverts. This cookie enables Google to serve adverts to you based your visits to our website(s) and other website(s) on the internet. You may change your Google ad settings at the Google ad and content network privacy policy.
+If ad personalization is turned on, our partners will use your information during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org and http://www.aboutads.info/choices.
+Please note that if ad personalization if off, they will not collect or use your information to personalize the ads shown to you. You will still see ads, but they may not be as useful. Ads may still be based on the topic of the website or app you’re looking at, your current search terms, or on your general location, but not on your interests, search history, or browsing history.
+Advertising partners
+See below for a list of advertising partners with whom data will be shared alongside a link to their privacy policy
+Google
+A9.com, Amazon Europe Core SARL
+Aarki
+Adacado
+Adara Media
+AdClear
+ADEX
+Adform
+Adikteev
+AdLedge
+Adloox
+Adludio
+AdMaxim
+Admedo
+Admetrics
+Adobe Advertising Cloud
+AdRoll, Inc.
+AdTriba
+advanced STORE GmbH
+Adventori
+advolution.control
+affilinet
+Akamai Technologies Inc.
+Amobee
+Analights
+AppLovin Corp.
+AppNexus
+Arrivalist
+AudienceProject
+Aunica
+Avocet
+Batch Media
+BDSK Handels GmbH & Co. KG
+Beeswax
+Betgenius
+Bidswitch
+Blismedia
+Bombora
+Booking.com
+C3 Metrics
+Cablato
+Celtra
+Centro
+Cint
+Clinch
+Cloud Technologies
+Cloudflare
+Commanders Act
+comScore
+Conversant/CJ Affiliate
+Crimtan
+Criteo
+CUBED
+DataXu
+Delta Projects
+Demandbase
+DENTSU
+Dentsu Aegis Network
+Digiseg
+DMA Institute
+DoubleVerify
+Dstillery
+DTS
+EASYmedia
+eBay
+ebuilders
+Effinity
+emetriq
+Ensighten
+Essens
+ESV
+Evidon
+Exactag
+Exponential
+Facebook
+Flashtalking
+Fractional Media
+FUSIO BY S4M
+Gemius
+GfK
+GP One
+gskinner
+Haensel AMS
+Havas Media France - DBi
+hurra.com
+IBM
+Ignition One
+Impact
+Index Exchange
+Infectious Media
+Innovid
+Integral Ad Science
+intelliAd
+Interpublic Group
+Jivox
+Kantar
+Kochava
+LifeStreet
+Liftoff
+LiveRamp
+Localsensor
+LoopMe
+Lotame
+Macromill group
+MainADV
+Manage.com
+Marketing Science Consulting Group, Inc.
+MBR Targeting Gmbh
+MediaMath
+Meetrics
+MindTake Research
+Mobitrans
+Mobpro
+Moloco Ads
+MSI-ACI
+Nano Interactive
+Navegg
+Neodata Group
+NEORY GmbH
+Netflix
+Netquest
+Neuralone
+Neustar
+Nielsen
+Nordic Factory Solutions AB
+numberly
+Oath
+Objective Partners
+Omnicom Media Group
+On Device Research
+OneTag
+OpenX Technologies
+Optomaton
+Oracle Data Cloud
+OTTO
+PERMODO
+Pixalate
+Platform161
+PMG
+Protected Media
+Publicis Groupe
+PubMatic
+PulsePoint
+Quantcast
+Rackspace
+Rakuten Marketing
+Refined Labs
+Relay42
+Remerge
+Resonate
+RevJet
+RhythmOne LLC
+RN SSI Group
+Roq.ad
+RTB House
+Rubicon Project
+Salesforce DMP
+Scenestealer
+Scoota
+Seenthis
+Semasio GmbH
+SFR
+Sift Media
+Simpli.fi
+Sizmek
+Smaato
+Smadex
+Smart
+Smartology
+Sociomantic
+Sojern
+Sovrn
+Spotad
+SpotX
+TabMo
+Taboola
+TACTIC™ Real-Time Marketing
+Teads.TV
+TEEMO
+The Trade Desk
+Tradedoubler
+travel audience – An Amadeus Company
+TreSensa
+TripleLift
+True Ultimate Standards Everywhere Inc.
+TruEffect
+Turbobytes
+UDG
+usemax (Emego GmbH)
+Videology
+Vimeo
+Virtual Minds
+Vodafone GmbH
+Waystack
+Weborama
+White Ops
+Widespace
+WPP
+Yieldr
+ZMS
+Opt out / Privacy Settings
+Click here to change your privacy settings.
+Please note, if you opt you you may see ads that are less relevant to you. These ads use cookies (see below), but not for personalization.
+Cookies
+A cookie is a small text file that is stored on your computer
+What are they used for?
+Cookies allow us to permanently store information about your visit to enable a better experience when you return in the future and browse other pages. For example, a cookie may store the contents of your shopping basket or whether you've disabled the mobile website.
+Generally cookies are used to enable the website to function correctly, by storing where you are in a particular transaction or part of the site, so that the next page you visit can be tailored to your needs.
+However they are also used for other purposes like performance analysis, website statistics and advertising targeting.
+Here is a breakdown of the common classifications of cookies we use and how we use them.
+Strictly necessary
+These cookies are essential to enable the website to function, for you to navigate. Without these you will not be able to use the site.
+Our website uses the WordPress blogging platform, which may set cookies in order to require the website to work. Without these cookies, the site would not be able to process your requests, e.g. Session Cookies.
+Advertising cookies
+See also above, Advertising.
+With your consent, we allow third-party companies to serve personalised ads in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org and http://www.aboutads.info/choices.
+Note the we accepts no responsibility for any third party advertisements that may appear on our websites or how they may collect and use your information. When clicking on an advert you are longer protected by this privacy policy (see: external links below).
+Managing cookies
+Your browsing software will allow you to change how our website and others set and use cookies, from blocking them entirely to allowing only certain types or websites to use cookies
+Naturally, disabling certain cookies may cause certain parts of the website to stop functioning.
+None the less, find out how to change the cookie settings in your browser below...
+Internet Explorer
+http://support.microsoft.com/kb/196955
+Safari
+http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html
+Google Chrome
+http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647
+Firefox
+http://support.mozilla.org/en-US/kb/Cookies
+Opera
+http://www.opera.com/browser/tutorials/security/privacy/
+Safari, iPhone, iPad
+http://support.apple.com/kb/HT1677
+Android
+http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022
+Blackberry
+http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp
+Windows Phone
+http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx
+Flash cookies
+Cookies may also be set using Flash.
+To find out and change the settings of these, follow the link below
+http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html
+External links
+TellyMix is in no way responsible for the content, security or privacy policy of websites outside of this website Once you leave a TellyMix website you will be subject to that sites privacy policy.
+Policy changes
+TellyMix reserves the right to revise and make changes to this policy at any time. The up to date version will be available from tellymix.co.uk
+Removal request
+To request any personal information we hold on you or for it to be deleted, please contact us
+Contact information
+You can contact us by email in regards to this privacy policy from this contact form

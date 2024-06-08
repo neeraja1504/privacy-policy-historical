@@ -1,0 +1,83 @@
+The following text is extracted and transformed from the ritlabs.com privacy policy that was archived on 2019-05-14. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Ritlabs, SRL Privacy Policy
+Effective Date: 05 January 2019
+Ritlabs, SRL (“Ritlabs”) has adopted this privacy policy (hereinafter “Privacy Policy”) to inform you of its collection and use of your personal or personally identifiable information or personal data (hereinafter “personal information”) through the https://www.ritlabs.com website (hereinafter “Website”). Ritlabs values your privacy and has adopted this Privacy Policy in an effort to remain transparent with respect to its collection and use of your personal information.
+Ritlabs reserves the right to suspend, replace, modify, amend, or terminate this Privacy Policy at any time and within its sole and absolute discretion. In the event Ritlabs replaces, modifies, or amends this Privacy Policy, the Effective Date, located above, will change. Your continued use of the Website after a change in the Effective Date constitutes your manifestation of assent to and agreement to any replacement, modification, or amendment herein.
+I. What information does Ritlabs collect?
+Ritlabs collects the following personal information from you:
+When you just access the website (this information is kept for 30 days):
+Ritlabs Website page accessed;
+Date and time of the access;
+Encryption (TLS) protocol properties and algorithms used;
+Referrer URL;
+Your IP address;
+Your country obtained from the IP address using a geolocation database;
+Your browser software;
+Your operating system;
+Your screen resolution;
+Your use of the Website.
+Search queries on the Website, if you use the Search feature on the website (this information is kept indefinitely);
+Search queries on the external search engines that led to your access to the website (this information is kept indefinitely);
+When you register at the website and create an account at the Website (this information is kept indefinitely):
+Mandatory information required to create an account at the Website: First name and surname, email address, login and password - that you have filled in the registration form;
+Any optional personal information that you have decided to fill in the registration form, including, but not limited to Salutation, Middle name, Language, Job title, Your Web page, ICQ, Gender, Birthday, Photo, Phone, Fax, Mobile, Pager, Postal address (Country, State, Zip, Address, Mailbox, Notes), Your work information (Company, Web page, Department, Position, Title, Company logo, Phone, Fax, Pager, Postal address (Country, State, Zip, Address, Mailbox, Notes)), Forum profile (Description, Interests, Signature, Avatar image)
+The values of your rating and your authority at the forums on the Website (this information is kept indefinitely);
+Website Administrator notes (this information is kept indefinitely);
+Access permissions (groups) of your account (this information is kept indefinitely).
+When you post messages to Website forums or Website technical support requests (this information is kept indefinitely).
+Ritlabs uses session cookies and persistent cookies to collect the information on your use of the website.
+In order to determine your country based on your IP address, Ritlabs uses "GeoIP2 Country" database by MaxMind, available from www.maxmind.com.
+Ritlabs collects the following personal information about you from the distributors in order to fulfill an order for Ritlabs software that you have placed via the distributor (we keep this information indefinitely):
+Your name;
+Your company (if any);
+Your email;
+Your telephone number;
+Your fax number (if any);
+Your postal address (Street address, City, State, Country, Zip or Postal code);
+Payment type (e.g. by credit card, by wire transfer, etc.).
+Date and time of your order;
+Your IP address;
+Your country obtained from the IP address using a geolocation database;
+Your browser software;
+Referrer URL.
+II. How does Ritlabs use this information?
+Ritlabs uses your personal information to provide you with service and support, to determine whether you are eligible for support, to resend you registration keys, to tailor the Website and its content to your preferences, to mitigate attacks to the website, to prevent hacking of the website, and to aid Ritlabs in changing the content of the Website or improve the Website usability.
+III. How does Ritlabs secure this information?
+Ritlabs values the security of your personal information and has, where practicable, implemented industry standard encryption to protect against unauthorized access to or interception of your personal information.
+Ritlabs uses physically-dedicated servers in guarded colocations to process your personal information.
+You recognize, however, that unencrypted electronic mail is not secure and that you accept all risks associated in contacting Ritlabs through unencrypted electronic mail. You are responsible for the security of your electronic communications with Ritlabs.
+Ritlabs collects and processes your personal information on servers located in the Republic of Moldova and the Federal Republic of Germany.
+IV. Does Ritlabs share this information with third parties?
+On some pages of the Website, Ritlabs uses the Facebook Pixel, so, when you access a page of the Website that has a Facebook pixel, your browser software also accesses Facebook, so Facebook is aware that you have visited certain Website page at certain time from certain IP address using certain browser software, operating system, screen resolution, and so on. However, in no case Ritlabs share with the Facebook any information that Ritlabs have collected from you directly or that you have filled in the registration form at the Website. The Facebook Pixel is used by Ritlabs to better suite Facebook advertisement to you.
+Ritlabs does not sell or rent or share your personal or personally identifiable information to third parties. Whenever Ritlabs wished to do analytics of its customers or visitors, it depersonalizes all the information collected from You before transferring it to third parties.
+Ritlabs may transfer your personal information to a third party in a sale of the Website, a sale of Ritlabs, or a sale of substantially all of the assets of Ritlabs, notifying you about this. Ritlabs may also transfer your personal information to respond to a duly authorized subpoena or court order, to respond to regulatory requests by government authorities, to protect the safety or security of Ritlabs, the Website, its employees, and its users, and, where necessary, to protect against fraud, false advertising, or the violation of any law, statute, ordinance, regulation, or treaty whether local, state, provincial, national, or international.
+V. Your consent and How may You cease Ritlabs’ collection and use of your personal information?
+Through your use of the Website, you provide your consent to the processing of your personal information.
+You may cease Ritlabs’ collection and use of your personal or personally identifiable information by discontinuing your use of the Website and adjusting your web browser settings to clear any cookies remaining on your computer from your prior use of the Website.
+IV. Your Privacy Rights
+You may use a pseudonym, a nickname, or a fictional name (providing it does not infringe others’ rights and is inoffensive) instead of your real name, but you may not leave blank (unfilled) the appropriate fields.
+You may obtain without charge, a list of categories of your personal information that Ritlabs has collected, has used, or has disclosed to third parties. You may also obtain without charge a copy of your personal information that we have.
+If you would like to make a request for disclosure under this section, please contact privacy@ritlabs.com in writing, and we will reply within a maximum of 30 days.
+You may also ask us to amend, rectify, or delete your personal information that is kept for more than 30 days. However, if you ask us to delete your personal information that is kept for up to 30 days, we will take no action since this information will be deleted anyway automatically upon the expiration of the retention period specified in this privacy policy, and because it may not always be possible to delete this temporary information, since it is mostly kept in the Website log files in plain text format, not in a database that would have allowed an easy deletion or rectification or amendment.
+If you ask us to delete your user account, the information that you have provided in your forum posts or in your technical support tickets will persists. However, after the deletion of your user account, your forum posts or in your technical support tickets will show as created by the deleted user. The information that you have entered to the support tickets cannot be deleted and will be further used by Ritlabs technical support staff as a reference. However, if you have provided sensitive personal information in the text of the technical support tickets, you can ask Ritlabs to depersonalize it. You can delete your forum posts by yourself as long as your account at Ritlabs is active. However, if your account at Ritlabs is deleted, you can only ask to depersonalize your forum posts.
+You have the right to lodge a complaint with a supervisory authority if you consider that a prior notice or request that you have sent us has not been satisfied within 30 days. You can lodge the complaint to the National Center for Personal Data Protection of the Republic of Moldova (hereinafter “NCPDP”). The registration number of Ritlabs as the operator of personal information assigned by NCPDP is 0000079, based on the notification nr. 130918CI146 dated 18-09-2013.
+You have other rights granted by applicable law.
+VII. Notices
+All notices required to be made to Ritlabs pursuant to this Privacy Policy may be made in writing to privacy@ritlabs.com. Alternatively, you can send written requests by regular mail to the following address: str. Mihai Eminescu, nr. 42, MD-2012, Chisinau, Republic of Moldova.
+Privacy Policy version 1.3.
+This information on Google API User Policy for The Bat! Email Client is available on a dedicated page at https://www.ritlabs.com/en/products/thebat/google-api-data-user-policy.php.
+Effective Date: 25 March 2019
+The Bat!, the downloadable computer software to send, receive and categorize electronic mail (email client), uses Google Application Program Interface (API) Services. You can find out more about The Bat! at the links below (at the footer of this page) or at https://www.ritlabs.com/en/products/thebat/.
+The Bat! is developed by Ritlabs, SRL - a company incorporated under the laws of the Republic of Moldova. You can find out more about Ritlabs at https://www.ritlabs.com/en/about/.
+The end user downloads The Bat! from Ritlabs' website and runs The Bat! on her/his own computer. The Bat! is a desktop application that runs on the end-user's computer. The Bat! is not a web application.
+Ritlabs has obtained authorized client credentials for The Bat! to access Google API Services. Ritlabs keeps these credentials confidential.
+The Bat!, while running on the end user's computer, is requesting the following Google user data:
+Data associated with Google account: the end user's email address, profile information and OpenID - to let The Bat! authenticate the Google account using OAuth authentication mechanism;
+Email messages (content) and folder structure stored on end user's Google account - to let The Bat! receive email messages stored on the Google account and store these messages on the end user's computer according to the the folder structure in the Google account; this also allows The Bat! to upload messages, create, edit and delete folders on the end user's Google account;
+List of end user contacts in the Google account, i.e. the address book that stores the contact information (name, email, etc.) of the other people - this allows The Bat! to synchronize the end user Google address book with the address book of The Bat! on the end user computer.
+In order to access Google API Services, The Bat! uses the following URLs:
+https://mail.google.com/
+https://accounts.google.com/
+https://www.googleapis.com/
+All notices required to be made to Ritlabs pursuant to this Policy may be made in writing to ritlabsmd@gmail.com or administrative@ritlabs.com. Alternatively, you can send written requests by regular mail to the following address: str. Mihai Eminescu, nr. 42, MD-2012, Chisinau, Republic of Moldova.
+Policy version 1.1.

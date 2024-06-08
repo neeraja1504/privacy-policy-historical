@@ -1,0 +1,57 @@
+The following text is extracted and transformed from the objectweb.org privacy policy that was archived on 2003-04-16. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+ObjectWeb Consortium - Privacy policy
+ObjectWeb
+· Consortium
+· Ambition and scope
+· Hosted projects
+· Architecture
+· Documentation
+· Conferences
+· References
+· Licenses
+· History
+Projects
+· ASM
+· CAROL
+· C-JDBC
+· Fractal
+· JMOB
+· JOnAS
+· Jonathan
+· JORAM
+· JORM
+· JOTM
+· Kilim
+· MEDOR
+· Monolog
+· OpenCCM
+· ProActive
+· RmiJdbc
+· THINK
+Resources
+· ObjectWeb Forge
+· FAQ
+· Mailing lists
+· Search
+· CVS repositories
+· Links
+Misc
+· Contacts
+· Privacy policy
+· Mirror sites
+· About this site
+Print-friendy
+version
+|
+The ObjectWeb website (software mailing lists manager and ObjectWeb own installation of SourceForge) uses cookies which just allow people to log in.
+E-mail addresses collected for ObjectWeb mailing lists are not used by ObjectWeb or any of its partners for commercial purposes, but solely for operating the mailing lists.
+Contact information given when answering the JOnAS questionnaire may, if agreed by the user, be transmitted to third parties for promoting JOnAS related products and services. Contact information given in the download forms are solely used for statistical purposes.
+According to the French Law n°78-17 dated 6 January 1978 covering computerised information, data files and freedom, and the recommendations of the Commission Nationale de l'Informatique et des Libertés (CNIL) ObjectWeb informs you that:
+Downloading data from the ObjectWeb site in order to constitute or enrich a database containing personal information (e.g., e-mail addresses) is strictly forbidden, as is its use for commercial or advertising purposes.
+You are granted (art. 34 of French Law n°78-17) access, revision and deletion rights to personal information concerning yourself which is managed by the ObjectWeb site (e-mail address for list subscriptions, messages posted to the mailing lists and archived at the ObjectWeb site, collected answers to on-line questionnaires, collected name and e-mail address given for download purposes).
+Access, revision and deletion of personal information can be performed by contacting:
+Alexandre Lefebvre - ObjectWeb Consortium
+France Telecom R&D - DTL/ASR
+28 chemin du Vieux Chene
+38243 Meylan CEDEX - France
+e-mail: Alexandre.Lefebvre at francetelecom.com (note: "@" is replaced by "at" in the e-mail address to prevent robot sniffing).

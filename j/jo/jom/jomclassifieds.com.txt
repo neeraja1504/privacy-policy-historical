@@ -1,0 +1,46 @@
+The following text is extracted and transformed from the jomclassifieds.com privacy policy that was archived on 2019-01-17. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+License of Jom Classifieds, Joomla Classifieds
+Summary
+jomclassifieds.com is committed to protecting you and your personal information when you are using our services. We want our services to safe and enjoyable environments for our users. This Privacy Policy is relevant to our use of any personal information you provide to us during your visit to our site.
+jomclassifieds.com seeks to follow the industry's best practices concerning personal information handling.
+Whenever you register for our members-only services, for example using our forum, we may ask personal information about you. This can consist of such information as your name, e-mail, website address, gender, etc. By entering the information in the fields requested you enable jomclassifieds.com to provide you with the services you select.
+jomclassifieds.com will NOT sell, rent or otherwise willingly transmit the recorded personal information to any third party. Your privacy is important to us and we will not even offer aggregate information resulting from personal information processing to any part outside jomclassifieds.com. We only use the recorded personal information for:
+service administration purposes, e.g. sending you password reminders, registration confirmations, billing subscription services etc.;
+to contact you regarding new content added on our website, e.g. new forum posts, if you have opted in for this sort of communication;
+to personalize your experience, through the storage of your preferences in our site's database;
+analyze the use of our website and improve its usability;
+dispute chargeback requests
+If jomclassifieds.com wishes to use the recorded personal information for other uses, it will notify you beforehand so that you have the chance to opt-out from these new uses.
+When we contact you
+We only contact you if you have explicitly opted-in for such communication through the use of our services. For example:
+We may contact you if a new post was added to a thread or category you have subscribed to
+We shall contact you regarding if your subscription status has changed or a change is imminent
+We shall contact you to send you a copy of your invoice after a purchase
+We may contact you when you register or modify a user account, request a username/password reminder or reset, or in any other case where you perform an action related to the administration of the information stored in your user account
+These forms of contact are conducted by automated software running on our server. You always have the chance to opt-out from such communication. jomclassifieds.com will never send unsolicited email messages ("spam") or allow third parties access to our users and contacts database.
+We may also directly contact you - manually sending out emails, as opposed to automatic email sending outlined above - under special circumstances such as:
+Suspecting that your account is compromised by an unauthorized third party
+Before, during or after server-related incidents which may seriously hamper your ability to use our services
+In case you have crossed the line of fair use of our services
+If you have so asked us with an email, ticket, personal message, instant message, Twitter message or any other form of contact.
+Contact for marketing purposes
+We do not send unsolicited (or even opt-in) email messages for marketing purposes.
+Information sharing with third parties
+Information collected by jomclassifieds.com will not be shared with any third parties. Not in their raw form, not in a processed or aggregate form. We do not share personal information with third parties except as stated in the "Use of collected information" article above.
+Analytics
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+We use Google Analytics to help us understand how our customers use the site — you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
+Who we share your data with
+We do not and will never sell or transfer your data for reasons other than providing you with a better service on our own websites. All third party services have their own privacy policies in accordance to European GDPR laws. We use various services in order to achieve this including:
+PayPal – We also use PayPal for payment processing, you must have a PayPal account to use their service, who have their own privacy policy and terms of service.
+Stripe – We use Stripe to process credit card payments and store payment information securely. During checkout, payment information is transferred to Stripe and not stored on our site.
+Membership Pro - We use Membership Pro for subscription store information securely.
+Simple Ajax Contact Form - We use Simple Ajax Contact Form, who have their own privacy policy and terms of service
+AcyMailing - We use AcyMailing for Newsletter, who have their own privacy policy and terms of service
+How long we retain your data
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+For users that register on our website, we also store the personal information they provide in their user profile, including name, email, billing address and any websites to use our software. All users can see, edit, or delete ( By sending request to site admin ) their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+Contact information
+If you have any question regarding our privacy policy you may contact us by one of the following means:
+Sending an email to support at this domain name
+You can use the Ticketing System

@@ -1,0 +1,133 @@
+The following text is extracted and transformed from the 49s.co.uk privacy policy that was archived on 2019-04-06. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy Policy
+1. OBJECTIVES OF THIS PRIVACY POLICY
+Any personal information processed by 49’s Limited in connection with this Privacy Policy is controlled by 49’s Limited, which is considered the “data controller” of your (“Your”) personal information under European Union and UK data protection law. Our address is Dudley House, 169 Piccadilly, London W1J 9EH, England.
+This Privacy Policy forms part of Your Agreement. We advise that you (“You”) read this Privacy Policy carefully prior to using the service that we offer (the “Service”). By using the Service, You acknowledge that You have read, and agree to, the terms of this Privacy Policy.
+This Privacy Policy sets out the basis on which Your Personal Information (defined below) is processed by 49’s Limited (including any of its agents and/or employees), and (where appropriate) our affiliates, suppliers, partners, subcontractors and other selected third parties in order for us to be able to provide the Service to You and as outlined in this Privacy Policy.
+This Privacy Policy also sets out (without limitation):
+what Personal Information is collected;
+why we collect this Personal Information, how we use the collected Personal Information and with whom Your Personal Information is shared;
+access to Personal Information details;
+cookie information;
+security of Personal Information and international transfers information; and
+how we may occasionally make changes to this Privacy Policy and
+how You can make complaints.
+Please also refer to the Terms which may be applicable at times.
+Your Personal Information is stored in secured locations and on servers located at the facilities of our service providers within the EU. We will never sell your data to third parties or use it for any other purposes. We use data securely and we handle data in a way that follows our Data protection policy and our legal obligations.
+2. PERSONAL INFORMATION COLLECTED FROM YOU
+We may collect and process (whether automatically or otherwise) information about You from which You can be personally identified and/or which when combined with other information we collect and process about you is capable of identifying you ("Personal Information"), such as:
+name (or part thereof);
+title;
+gender;
+date of birth;
+credit or debit card or other payment or billing information;
+home, mailing or other physical address;
+e-mail address;
+telephone number or other contact information;
+Your username and password;
+IP address and location;
+Personal Information contained in identification documentation submitted by You;
+details of Your visits to our Service and Your preferences and habits when using the Service;
+device/technical information, including (without limitation) traffic data, location data, technical data relating to any device used by You to access the Service and other communication data;
+transaction history and details of bets, gaming payments and other transactions You conduct via the Service and (where relevant) details of the fulfilment of any of Your orders, and any other Website activity;
+Your feedback regarding the Service and responses to surveys and/or market research (although You do not have to respond to such surveys or requests);
+records of any correspondence and communications with us and telephone calls may also be recorded;
+Your use of our Service and your use of certain third-party services; and
+any Personal Information submitted by or requested from You, including (without limitation) and for the avoidance of doubt, during account registration, when registering or subscribing to any part of our Service, where You only partially complete an account registration process, by filling in forms on our Websites, by submitting a query to us through the Service, when seeking further assistance or reporting any issues with the Service, posting material or requesting further services.
+For the avoidance of doubt, to the extent that promotions or competitions are offered to individuals who do not hold an account with us, and where Personal Information is provided, such Personal Information will be held in accordance the Terms and this Privacy Policy.
+You acknowledge that the Personal Information provided by You may amount to sensitive personal data under the Act and You give Your consent to Your sensitive personal data being processed as set out in this Privacy Policy.
+Personal Information may also be provided to us from online vendors, service providers who refer You to the Service, from customer lists lawfully acquired from third-party vendors and from other third parties who work with us in connection with the Service or the Website. Third-party service providers may, without limitation, be appointed to provide technical support, process Your transactions and maintain Your accounts or to run promotions or marketing campaigns. We may have access to any Personal Information provided to such vendors, service providers and third-party e-commerce services.
+3. WHY WE COLLECT PERSONAL INFORMATION, HOW IT IS USED AND HOW IT IS SHARED
+We collect and process Your Personal Information for a number of reasons, such as:
+to provide You with the Service and set-up operate and manage Your account and to store Your Personal Information so You may return to use our Service as and when You choose;
+for the purposes of investigating and safeguarding against prohibited acts (being acts prohibited by us under our Terms or which are illegal or improper) and otherwise for the purpose of enforcing or apply the Terms;
+to help us to improve our Service by better understanding our users' needs;
+to improve and develop our offers to ensure that our offerings and the Service is as useful and enjoyable as possible;
+to provide You with a personalised experience of the Service;
+to deliver (whether directly or indirectly via third parties) effective and personalised marketing material and content of 49’s Limited;
+to recommend goods, services or promotions which may be of interest to You (but only where You have consented to be contacted for such purposes);
+for data-matching purposes in respect of your use of our Service and your use of certain third-party services;
+to send out certain email and/or SMS messages You may have signed up for;
+to provide customer support;
+to contact You;
+to undertake security and verification checks;
+to meet legal and regulatory requirements
+to meet certain business requirements (including, without limitation, as set out in clause 3.4 below);
+to train our agents and/or employees;
+to prepare statistics and analysis relating to use of the Service;
+to measure, understand or monitor the effectiveness of advertising, promotions, marketing material and content and any joint initiatives with our affiliates, suppliers, partners, subcontractors and other selected third parties
+to share Your Personal Information with our other partners (detailed below);
+to deliver information to You regarding 49’s Limited and (where appropriate) or our affiliates, suppliers, partners, subcontractors and other selected third parties. The reasons listed above are not exhaustive but help to illustrate the reasons why it is important for us to collect and process Your Personal Information.
+Your Personal Information may be supplemented with information from third-party service providers (such as for the prevention of crime or verification checks or for advertising and analytics purposes) or otherwise from third-party service providers and/or publicly available sources and information.
+If You choose to participate in any promotion, competition or marketed betting opportunity, game, survey or contest and win, then by accepting any contest prize or winnings from us, You acknowledge that we may use Your Personal Information for advertising, promotional and news purposes such as (without limitation) Your name, username (where applicable), image, photographs, and general location in accordance with applicable regulations and guidance.
+Your Personal Information may be shared with our shareholders and/or our affiliates, suppliers, partners, sub-contractors and other selected third parties in order to provide the Service, for the reasons outlined at clause 3a above and for the performance of any contract or arrangement we enter into with any such shareholders, affiliates, suppliers, partners, sub-contractors and third parties or You in relation to or connected with the Service and the Website.
+If there is a legal or regulatory requirement, or we believe such action is necessary, we may reveal Your Personal Information for the following reasons:
+to comply with any legal process served on us or the Service (including without limitation to defend ourselves);
+to comply with any regulatory requirements, such as notifying regulators in the event of a security breach, or otherwise to comply with requests from regulators;
+to protect and defend our rights of property or the interests of sporting or other qualified or authorised bodies; or
+to protect the personal safety of users of the Service or the public.
+We may share Your Personal Information with, without limitation, regulators, the police, courts, IBAS (the Independent Betting Adjudication Service), sports' governing bodies and betting integrity organisations and any other authorised bodies, for the purposes of investigating any actual or suspected criminal activity or other regulatory or legal matters.
+We may disclose depersonalised data (such as aggregated statistics) about the users of our Service in order to describe our sales, customers, traffic patterns and other site information to prospective partners, advertisers, investors and other reputable third parties and for other lawful purposes, but these statistics will include no Personal Information. We may also share your information on an anonymous basis with social media sites to generate custom marketing audiences. This will not result in your Personal Information being shared.
+We may disclose limited personal data to third parties who also provide services to you for the purposes of data-matching as described in clause 3a viii.
+We will not sell, lease or share Your Personal Information except as detailed in this Privacy Policy.
+Your Personal Information will only be held for as long as is we deem it necessary. At account closure, Your Personal Information will be kept for at least five years for legal, regulatory and accounting purposes and will then be removed from our system.
+We will respect your choice as to what communications you wish to receive and how these are sent. 49’s Limited will only process your personal information where we have a legal basis to do so.
+The legal basis will depend on the reason or reasons 49’s Limited collected and needs to use your information. Under EU and UK data protection laws in almost all cases the legal basis will be:
+because we need to use Your Personal Information so that we can provide our Service to You and otherwise perform the contract we have with you.
+because it is in 49’s Limited’ legitimate interests to use your Personal Information to operate and improve our business in the provision of Service.
+because 49’s Limited needs to use your Personal Information to comply with a legal obligation.
+to protect the vital interests of You or another person.
+because you have consented to 49’s Limited using Your Personal Information for a particular purpose.
+4. ACCESS TO PERSONAL INFORMATION
+In relation to Your Personal Information, You can contact us at any time to:
+stop promotional communications (this can further be achieved by either opting out on the Website, where applicable, or unsubscribing in an e-mail received from us, or by sending "STOP" (or specified equivalent) to the relevant number in any SMS or other digital message received from us). For the avoidance of doubt, if You wish to stop any push notifications, You will need to manually adjust Your settings via the connected device on which You access the Service, e.g. by using the 'settings' functionality in respect of any of our apps;
+confirm the accuracy of the Personal Information we have collected about You;
+update Your Personal Information;
+change any Personal Information provided to us or mark any Personal Information to prohibit future use, provided evidence is provided to support such changes;
+lodge a complaint regarding the use of Your Personal Information; or
+obtain a copy of Your Personal Information held by us following completion of the appropriate forms. We are entitled by law to make an administrative charge (payable by cheque or bank transfer) for providing such Personal Information. Your Personal Information will be provided within 28 days of the appropriate request and payment.
+5. COOKIES
+Cookies are small text files that record Your preferences when You visit certain online pages and are stored on Your computer or other connected device. We use a variety of first party and third-party cookies, as well as both persistent and session cookies. We and (where relevant) and our affiliates and third-party service providers use cookies to:
+track the use of the Service;
+monitor traffic to the Service;
+improve the Service by making it easier and more relevant for You;
+obtain and pass on analytics regarding Your use of the Website and the Service for the purposes outlined in clause 3.1 above;
+understand Your preferences for advertising purposes; and
+provide You with relevant advertising when visiting our Website.
+By using our Website and/or using our Services, please note that we may use 'iesnare' cookie(s), which, for example, pass certain device information such as your device's IP address to a third-party.
+Online browsers can usually be set to either accept or decline cookies. However, if cookies are declined You may not be able to fully experience the interactive features of the Service.
+By using our Service You acknowledge and agree to us using the types of cookies set out above.
+6. CONSENT TO SECURITY AND/OR ACCOUNT REVIEW
+We may conduct a security and/or account review at any time to confirm Your identity, age and the registration data provided by You or otherwise as part of any Verification Checks. This information will be used (without limitation) to verify use of Your account for potential breach of our Terms or of applicable law or regulations.
+By accepting this Privacy Policy, You authorise us (including our agents and/or employees), our affiliates, suppliers, partners and subcontractors and other selected third parties to both use Your Personal Information and to disclose Your Personal Information to third parties with the objective of validating the supplied information. This includes where necessary the transfer of information outside of Your country in accordance with clause 8 below.
+7. SECURITY OF PERSONAL INFORMATION
+Information security is important to us and we understand the techniques required to secure this information. Security measures are in place to protect Your information from access by unauthorised persons and to prevent unlawful processing, accidental loss, destruction and damage.
+Personal Information received directly from You will be stored in a password-protected database located within our secure network behind active state of the art firewall software.
+We also employ appropriate organisation measures to prevent unlawful processing, accidental loss, destruction and damage to Your Personal Information, including agent/employee training and up to date security policies.
+The sending of information via the internet cannot be completely secure at all times. Although we will make every reasonable effort to protect Your Personal Information, we cannot guarantee the security of any information disclosed online. In opening an account with us, You accept the potential security risks of internet use and will not hold us responsible for any breach of security unless it has been proved that we have been negligent or at fault. For Your own privacy protection we encourage You not to include sensitive information, for example credit/debit card numbers, in any e-mails sent to us.
+While we have implemented appropriate technical and organisational measures to ensure the safety of Your Personal Information, due to the continually evolving state of technology and business, coupled with its complexity, we are not able to guarantee error-free performance in relation to the privacy of Your Personal Information.
+Any Personal Information provided by You by way of a written form in relation to account opening is Your responsibility. Where written Personal Information is provided to us as part of an account opening process, You must ensure that You obtain the original form following the electronic input of Your Personal Information.
+Protection of any information or images provided to a third-party online site that links to or from the Service, cannot be guaranteed. This includes (without limitation) information collected by any third-party managing our affiliate program or any other program, as these third-party online sites are owned and operated independently of us.
+Information gathered by these third parties will fall under their privacy policy rather than ours. If You have any queries regarding a third-party's privacy policy, You should obtain this information directly from them.
+We are not responsible or liable for:
+the actions or policies of these third parties; or
+any third-party links or the content or privacy practices of these online sites.
+8. INTERNATIONAL TRANSFERS
+Personal Information collected in accordance with this Privacy Policy may be stored and processed in any country in which we, our affiliates, suppliers, partners, subcontractors and other selected third parties have facilities. All our servers are located in the EU and we will not transfer Your Personal Information to a country not authorised by the European Commission as having equivalent protections unless You have consented to such transfer or where You are resident in such country and/or it is necessary to do so to perform any contract with you.
+9. CONSENT TO PRIVACY POLICY
+You agree to be bound by the terms of this Privacy Policy as part of Your acceptance of the Terms.
+This Privacy Policy should be read in conjunction with our Terms and any additional applicable terms posted on our Website or made available via the Service. Changes may be made to this Privacy Policy from time to time. In the event that there are any changes, an updated version of our Privacy Policy will be published on our Website and made available as appropriate.
+This Privacy Policy was amended last on 1st May 2018 and this is our entire and exclusive Privacy Policy, which supersedes any earlier version. However, we advise You to regularly review the Privacy Policy to check for any updates.
+10. COMPLAINTS
+We work hard to handle your information responsibly. If you are unhappy about the way we do this, please contact 49’s Limited’ Data Protection Officer who will address your concerns.
+We hope that we will be able to resolve any concerns you may have.
+However, you have a right to complain to the UK’s Supervisory Authority for data protection, the Information Commissioner at:
+Information Commissioner's Office
+Wycliffe House
+Water Lane
+Wilmslow
+Cheshire
+SK9 5AF
+Manage your cookie policy preferences
+As a valued player on 49's, we don't want you to miss out! We'd love to continue keeping you up-to-date with our latest newsletters and offers.
+Please select from the list below which cookies you would like to opt in.

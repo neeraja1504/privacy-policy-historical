@@ -1,0 +1,24 @@
+The following text is extracted and transformed from the atpm.com privacy policy that was archived on 2019-07-27. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+ATPM - About - Privacy Statement
+About This Particular Mac (ATPM) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.
+Third Party Advertising
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.
+Third Party Cookies
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+Comments
+If you participate in our voluntary comments forums (at the bottom of each article page), you may optionally provide your name and e-mail address. If you do, ATPM records this information but does not publish it on the comments page next to your comment. Comments become the property of ATPM and may be republished in our monthly issues.
+External Links
+This site contains links to other sites. ATPM is not responsible for the privacy practices or the content of such Web sites.
+Editorial Mail
+E-mail messages sent to our editorial address are considered public statements and become the property of ATPM. Unless noted otherwise in the message itself, ATPM may publish such messages (including the author’s name and e-mail address) in whole or in part on the ATPM Web site and in ATPM publications. ATPM will generally try to contact correspondents before any such publication, but makes no guarantee to do so. ATPM will honor any request not to publish a message, or not to publish the correspondent’s name or e-mail address. By default, we will not print the e-mail address.
+Polls
+If you participate in our voluntary polls, our software records your IP address for the purpose of preventing ballot stuffing.
+Subscription Lists
+ATPM keeps the names and addresses of its subscribers private; it will not disclose them under any circumstances unless compelled by law. The ATPM subscriptions database is stored on a Mailman server hosted by Pair Networks. Aside from the Pair administrators, the only person with access to the subscription list is ATPM ’s publisher.
+ATPM reseserves the right to use aggregate information, such as the total number of subscribers, to promote ATPM.
+To receive issues of ATPM (or notifications of issues) by e-mail, you must provide us with your e-mail address. This is the only piece of personal information recorded in our subscriptions database. (We don’t ask for your name.)
+Web Logs
+ATPM records information about how people access our Web site. This information includes your IP address (or the DNS name associated with it) and what Web software you’re using. Unless your IP address or its DNS name identifies you specifically, there’s no way to use this connection information to identify a particular user. We may record information about queries submitted to our search facilities to better understand how people use our search features. As with other Web accesses, this information generally cannot be associated with any particular user; in any case, query information is not disclosed to anyone outside the ATPM staff.
+Questions?
+If you have any questions about this privacy statement or the practices of this site you can contact editor@atpm.com.
+This statement is adapted from the TidBITS Privacy policy.

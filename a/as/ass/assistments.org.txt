@@ -1,0 +1,4 @@
+The following text is extracted and transformed from the assistments.org privacy policy that was archived on 2008-05-06. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+The Assistment Project Funding
+The ASSISTments Project collects data on student usage and performance throughout a students use of the system. The performance information stored by the ASSITments Project is only shared directly with the student's teacher or teacher designees (such as their principal), and is not shared with any other third parties ever.
+In regard to teacher information, the Assistments Project does not share any information collected with any third party. All information collected (name, e-mail, etc.) by teacher tools is stored by the Assistments Project but will never be sold or shared.

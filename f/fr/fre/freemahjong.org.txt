@@ -1,0 +1,21 @@
+The following text is extracted and transformed from the freemahjong.org privacy policy that was archived on 2013-12-03. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy Policy
+The Free Video Games Project and its related websites have a straightforward privacy policy. We store a cookie that tracks the number of times a user visits one of our sites. We also collect e-mail addresses from regular users, which we use to send out very infrequent e-mails (3 per year max) notifying our users of new games and related items. Historically we have sent less than 1 e-mail per year since our inception in 2005. We do not share or rent our e-mail database with others, and you can unsubscribe at any time by contacting us through our e-mail address below, or through the unsubscribe link included with all of our (infrequent) e-mails. Like most websites we utilize 3rd party services to track non personally identifiable information and provide ad optimization and serving. These 3rd party services may also use cookies. An example is Google Adsense and you should read their privacy policy in conjunction with this one. Another is Google Analytics. You can manage your cookies if this troubles you, and choose not to receive them through a variety of methods. A good starting point is the Wikipedia entry for cookies.
+The Free Video Games Project websites include, and this privacy policy is valid for:
+FreeSolitaire.org
+FreeMahjong.org
+FreePong.org
+FreeMinesweeper.org
+FreeGalaga.com
+FreeQbert.org
+FreeInvaders.org
+FreeKong.org
+GoodGameEmpire.tv
+FreeMario.org
+FreePacman.org
+FreeTennis.org
+HappyHopper.org
+FreeSonic.org
+FreeAsteroids.org
+FreeSimon.org
+You can contact us at hello (at) freevideogamesonline (dot) org

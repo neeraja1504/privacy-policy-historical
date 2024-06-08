@@ -1,0 +1,46 @@
+The following text is extracted and transformed from the www.k12.wa.us privacy policy that was archived on 2019-07-03. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy Policy | OSPI
+Introduction
+OSPI collects data when you visit our website and this page outlines our Privacy Policy. This is an outline of how we handle your data and the relevant state and federal laws that apply to personally identifiable information that you might provide in the course of navigating this site.
+Data Collection and Use
+When you browse this website, we may collect and store information about your visit such as:
+The internet domain and network address you use to access our site;
+The type of web browser and operating system you are using;
+The date and time of your visit;
+The pages you visit on this website;
+The last website you visited before coming to ours; and
+Other web traffic statistics.
+OSPI saves the information we collect to help us understand how people are using our services and we use that data to improve the services we offer.
+If you volunteer information on our website such as participate in a survey, send us an email, or perform some other transaction online, the following additional information may be collected:
+Your email address and contents of the email.
+Information volunteered in response to a survey.
+Information volunteered through an online form for any other purpose.
+We save what you send us. The information collected is not limited to text characters and may include audio, video, and graphic information. Any emails you send to us may be used to respond to issues and to further improve our services. We may forward your email to another agency or a vendor for appropriate action.
+The records retention schedules published by the State Archives require us to keep this information for a limited time period and then we destroy it.
+Personal Information
+Personally identifiable information ("PII") as defined in this Privacy Policy, means information about a natural person that is readily identifiable to that specific individual. Personal information includes such things as your name, address, and phone number.
+We will not collect PII about you unless you voluntarily provide it to us by sending us an email, or completing an online form or survey. You may choose not to contact us by email or to provide any PII using an online form or survey. Your choice to not participate in these activities will not restrict your ability to access information provided on our site. If you choose to provide PII by emailing us, participating in a survey, or completing an online form, we may store this information.
+The Children's Online Privacy Protection Act (COPPA) governs information gathering online from or about children under the age of 13. We are especially concerned about protecting children's privacy. Under COPPA, a website must get parental permission before collecting PII about a child under the age of 13.
+Public Access to Information
+In Washington state, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by state government. At the same time, there are exceptions to the public's right to access public records that serve various needs including the privacy of individuals. Both federal and state laws provide exceptions.
+As a public agency, all our information is governed by laws such as Washington's Public Records Act RCW 42.56 (link is external). Information you send us may become a public record, and it may be subject to public inspection and copying if not otherwise protected by federal or state law.
+Information collected through the use of this site may be public information and subject to inspection and copying by members of the public. For example, the Public Records Act states that:
+Each agency, in accordance with published rules, shall make available for public inspection and copying all public records, unless the record falls within the specific exemptions of subsection (6) of this section [RCW 42.56.070(6) (link is external)], Chapter 42.56 RCW (link is external), or other statutes which exempts or prohibits disclosure of specific information or records. To the extent required to prevent an unreasonable invasion of personal privacy interests protected by Chapter 42.56 RCW (link is external), an agency shall delete identifying details in a manner consistent with Chapter 42.56 RCW (link is external) when it makes available or publishes any public record; however, in each case, the justification for the deletion shall be explained fully in writing.
+In the event of a conflict between this Privacy Policy and the Public Records Act or other law governing the agency's disclosure of records, the Public Records Act or other applicable law will control.
+Correcting Personally Identifiable Information
+State law requires agencies that collect PII to provide "procedures for correcting inaccurate information, including establishing mechanisms for individuals to review information about them and recommend changes in information they believe to be inaccurate." (RCW 43.105.365 (link is external))
+You can access any PII we collect about you by using the information in the contact information in the callout section to the right of this page. We will do our best to make corrections if you send us a written request that demonstrates a factual error. We will take reasonable steps to verify your identity before granting access or making corrections.
+User Tracking and Customization of Pages
+To better serve our users, we use a variety of indicators to customize your browsing experience with this website, including "cookies." If your browser is configured to block all cookies this could affect the availability and functionality of this website. We only have control over indicators we provide and not over third-party tools or other technologies deployed on this website that may be created by using embedded third-party applications.
+Security
+OSPI has taken steps to safeguard the integrity of its data and prevent unauthorized access to information maintained by us. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of information in our possession.
+Copyright
+This site contains text, artwork, photos or other content that is copyrighted by others and is being used with permission of the copyright holder. Therefore, we recommend that you contact our Webmaster for permission to use any content contained on this site.
+Disclaimer
+Neither the State of Washington, nor any agency, officer, or employee of Washington state warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity who relies on any information obtained from this system does so at their own risk.
+Our website contains links to other websites. These include links to websites operated by other government agencies, nonprofit organizations and private businesses, including but not limited to the websites of our vendors. When you follow a link to another site, you are no longer on our website and this Privacy Policy will not apply-you will be subject to the privacy policy of that new site.
+Reference in this website to any specific commercial products, processes, or services, or the use of any trade, firm, or corporation name is for the information and convenience of the public and does not constitute endorsement, recommendation, or favoring by the State of Washington, this agency, or its officers, employees or agents.
+OSPI reserves the right to revise and update this Privacy Policy at any time without notice by posting the revision on our site.
+Glossary
+A "network address" or "IP address" is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. In other words, it's a way to identify your computer while accessing the internet and based on that automatically assigned address by an internet service provider, your location can be determined.
+"Cookies" are small data files stored on your computer or smartphone when you visit a website. Cookies and similar technologies are widely used by websites to make them work more efficiently, as well as to provide information to the website operator about how users are using their website. Most browsers allow you to block cookies by adjusting the "settings," "preferences" or "internet options." To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, please refer to your browser 'help' section, visit the Federal Trade Commission, or the Washington State Office of Privacy & Data Collection.

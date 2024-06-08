@@ -1,0 +1,51 @@
+The following text is extracted and transformed from the atomic.io privacy policy that was archived on 2017-06-25. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Atomic: Privacy Policy
+This Policy was last updated on 14 March 2017.
+This update includes a small number of edits to align it with revisions made at the same time to the Atomic Terms of Use upon the introduction of the Atomic team functionality.
+1. Your privacy
+1.1. Atomic is a software as a service design collaboration system provided by Atomic.io Limited (New Zealand Company Number 4917919) (“ us ”, “ we ”) at atomic.io (“ Atomic ”).
+1.2. We do our best to protect your privacy, and to treat your personal information as required by the New Zealand Privacy Act 1993. We want to make sure that you understand how your personal information is used so please read this Privacy Policy carefully.
+2. Application of this Privacy Policy
+2.1. This Privacy Policy applies to all personal information that you submit through Atomic or to us directly, and any personal information that may be retrieved through your use of Atomic.
+2.2. By accessing or using Atomic, you consent to the collection, use, disclosure, storage and processing of your personal information in accordance with this Privacy Policy. If you don’t agree to this policy, you must not use Atomic.
+3. What information we collect about you
+3.1. We collect personal information about you when you create an account (whether it be a Team Account or an Individual Account) and when you access and use Atomic. In particular we will collect:
+your company/personal name;
+your contact details;
+payment related information;
+information about how Atomic is used (for example, traffic volumes, time spent on pages);
+your IP address and/or other device identifying data; and
+other information required to provide a service you requested.
+3.2. You are under no obligation to provide us with any such information. However, if you choose to withhold requested information, we may not be able to provide you with certain services or functionality.
+3.3. We may use cookies to collect this information. Cookies are small pieces of information that are stored in a browser-related file on your computer’s hard drive when you use Atomic.
+3.4. You can stop the collection of your information by permanently deleting your account and by ceasing to use our services. However, under New Zealand law, we may retain personal information for as long as is required for the purposes described in clause 4 below.
+4. What we do with the information we collect
+4.1. We will use the personal information we collect, and may share such personal information with other entities (such as service providers) to:
+provide our services (including retaining your data and content when you temporarily suspend your account);
+identify you when you sign-in to your account and verify that your account is not being used by others;
+carry out research and analysis so we can better understand and serve you;
+personalise content, advertisements or links relevant to your geographic area or device-type;
+gather broad anonymous demographic data (such as the number of visitors from a geographic area);
+communicate with you in relation to Atomic and any other services we provide from time to time;
+enforce compliance with our Terms;
+verify and carry out financial transactions in relation to payments and subscriptions you make through Atomic; and
+co-operate with any government, industry or regulatory authorities.
+4.2. You can unsubscribe from any communications from us by following the instructions on any communications sent to you. You can also exercise this right at any time by contacting us using the details at the end of this Privacy Policy.
+4.3. We may sell data that we collect in an aggregated format. This data will not identify you personally. We may share and sell anonymous aggregated data with third parties, including service providers, our affiliates, agents and current and prospective business partners.
+4.4. We may choose to sell our business. In these types of transactions, your information is typically one of the business assets transferred to the third party purchaser. You acknowledge and agree that such transfers may occur, and that any acquirer of us or our assets may continue to use your personal information as set out in this Privacy Policy.
+5. Storage and security of information
+5.1. You should be aware that information transmitted over the internet is inherently insecure. We will take all reasonable steps to securely store any personal information collected through Atomic. This information may (for the avoidance of doubt) be transferred and stored on servers outside of New Zealand.
+5.2. Any information sent through Atomic is passed through a secure server using encryption technology. All personal information stored by us is protected through secure passwords, user log-ons and other security procedures.
+5.3. In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information we hold. However, we will not be held responsible for events arising from unauthorised access of your personal information.
+5.4. You play an important role in keeping your personal information secure by maintaining the confidentiality of any password and accounts used on Atomic. Please notify us immediately if there is any unauthorised use of your account by any other internet user or any other breach of security.
+6. Retention of your information
+6.1. We will only hold your personal information for as long as permitted by New Zealand law. You have the right under the Privacy Act 1993 to access and/or correct your personal information held by us. You can do this by contacting us using the details below.
+6.2. More information about cancelling a paid subscription, permanently deleting or temporarily deactivating your Account can be found in our Terms of Use.
+7. Changes to our Privacy Policy
+7.1. We may amend or update this Privacy Policy from time to time, with or without notice to you, to better reflect changes to laws, regulatory requirements and/or enhancements to our services. You agree to be bound by the Privacy Policy that is in effect at the time you use Atomic. Revised versions will be effective immediately once posted on our website.
+8. Contact us
+8.1. If you have any questions about this Privacy Policy, the practices of Atomic, or if you would like to request access to, or correction of, your personal information, you can contact us in the following ways:
+Email: privacy@atomic.io
+Post: Atomic.io Limited, Level 1, 90 Dixon Street, Wellington, New Zealand 6011
+9. More information about privacy
+9.1. This Privacy Policy is governed by New Zealand law. For more information about privacy issues in New Zealand and protecting your privacy, visit the New Zealand Privacy Commissioner’s website: www.privacy.org.nz.

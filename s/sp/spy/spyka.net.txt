@@ -1,0 +1,291 @@
+The following text is extracted and transformed from the spyka.net privacy policy that was archived on 2019-07-17. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+spyka Web Group - Privacy and Cookies Policy
+Last revised: 25th May 2018
+This policy explains in detail how spyka Web Group (hereinafter "sWG", "us", "we", "our") use any information collected during any visit by you (hereinafter "your", "visitor", "user")
+Sites covered by this Privacy Policy
+This privacy policy applies to all spyka Web Group websites and domains including, but not limited to: spyka.co.uk, zypopwebtemplates.com, zypop.net, swgf.co.uk, studenteats.co.uk, studenthacks.co.uk, stagechat.co.uk, tellymix.co.uk, tellymix.com and tellymixcdn.com.
+Collection and processing of personal information
+We collect and process personal information in line with the The EU general data protection regulation (GDPR) in the following instances:
+Contact forms
+When you contact us we ask for your name and email address along with your query. We need this information in order to act on your query, covered by Article 6 (1) b) GDPR.
+In addition, we store your IP address. Your IP address is logged for security and operating purposes (e.g. to block spam messages) under Article 6 (1) f) GDPR.
+The above information is stored for 30 days before being automatically deleted. If you wish for this information to be deleted before then, please contact us (see below).
+Server logs
+Our web server logs certain pieces of information when you visit a web page. This information includes your anonymised IP address, the page you visit and diagnostic information such as your web browser, web browser’s user agent and your operating system.
+This not personal identifiable information is stored for up to one month and processed for error correction, troubleshooting and security purposes in our legitimate interest under Article 6 (1) f) GDPR to protect and provide reliable and error-free access to our website.
+Website statistics
+We log information when you visit any of our websites for our legitimate interest under Article 6 (1) f). This information includes the pages you visit, your browser and operating system information, plug-in information, referrer and anonymised IP addresses.
+None of this information identifies you personally.
+This information is kept for up to one month on our server. The information is then processed and analysed to produce website statistics. We use these statistics to enhance your browsing experience by creating pages tuned to specific browsers and operating systems. We may also use the information collected to administer and troubleshoot technical problems.
+Google Analytics
+The above non-personally identifiable information may also be shared with Google Analytics, a web analytics service offered by Google that tracks and reports website traffic. Google is our Data Processor for this information and you can view their privacy policy here.
+You can opt out of having this information shared with Google here.
+We do not collect nor share personally identifiable information for Analytics purposes.
+User registrations
+If you sign up for an account on our websites we require a non-personal username, password and email address. In addition, we also store your last logged on IP address.
+By signing up for an account you consent per Article 6 (1) a) GDPR to this information being stored and processed. We need this information of order to verify and secure your account and combat abuse of our systems, under Article 6 (1) f) GDPR.
+We also need this information in order to send you updates to your account, or to solve account issues (e.g. forgotten password), under Article 6 (1) b) GDPR.
+None of this information is shared beyond our company. It is stored with us for as long as you have your account in order for you to use our website.
+You can request that your account is deleted by contacting us. Once an account is deleted, all information is destroyed.
+You can opt out of marketing emails from your account’s control centre.
+Advertising
+We use third party ad companies to display advertisements on our websites. With your consent, these outside companies use cookies and other information gathering methods to deliver targeted ads to you.
+Google and our advertising partners (see below), as a third party vendor, uses cookies to serve ads on our websites. Google Adsense will place and use cookies when serving adverts. This cookie enables Google to serve adverts to you based your visits to our website(s) and other website(s) on the internet. You may change your Google ad settings at the Google ad and content network privacy policy.
+If ad personalization is turned on, our partners will use your information during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org and http://www.aboutads.info/choices.
+Please note that if ad personalization if off, they will not collect or use your information to personalize the ads shown to you. You will still see ads, but they may not be as useful. Ads may still be based on the topic of the website or app you’re looking at, your current search terms, or on your general location, but not on your interests, search history, or browsing history.
+Advertising partners
+See below for a list of advertising partners with whom data will be shared alongside a link to their privacy policy
+Google
+A9.com, Amazon Europe Core SARL
+Aarki
+Adacado
+Adara Media
+AdClear
+ADEX
+Adform
+Adikteev
+AdLedge
+Adloox
+Adludio
+AdMaxim
+Admedo
+Admetrics
+Adobe Advertising Cloud
+AdRoll, Inc.
+AdTriba
+advanced STORE GmbH
+Adventori
+advolution.control
+affilinet
+Akamai Technologies Inc.
+Amobee
+Analights
+AppLovin Corp.
+AppNexus
+Arrivalist
+AudienceProject
+Aunica
+Avocet
+Batch Media
+BDSK Handels GmbH & Co. KG
+Beeswax
+Betgenius
+Bidswitch
+Blismedia
+Bombora
+Booking.com
+C3 Metrics
+Cablato
+Celtra
+Centro
+Cint
+Clinch
+Cloud Technologies
+Cloudflare
+Commanders Act
+comScore
+Conversant/CJ Affiliate
+Crimtan
+Criteo
+CUBED
+DataXu
+Delta Projects
+Demandbase
+DENTSU
+Dentsu Aegis Network
+Digiseg
+DMA Institute
+DoubleVerify
+Dstillery
+DTS
+EASYmedia
+eBay
+ebuilders
+Effinity
+emetriq
+Ensighten
+Essens
+ESV
+Evidon
+Exactag
+Exponential
+Facebook
+Flashtalking
+Fractional Media
+FUSIO BY S4M
+Gemius
+GfK
+GP One
+gskinner
+Haensel AMS
+Havas Media France - DBi
+hurra.com
+IBM
+Ignition One
+Impact
+Index Exchange
+Infectious Media
+Innovid
+Integral Ad Science
+intelliAd
+Interpublic Group
+Jivox
+Kantar
+Kochava
+LifeStreet
+Liftoff
+LiveRamp
+Localsensor
+LoopMe
+Lotame
+Macromill group
+MainADV
+Manage.com
+Marketing Science Consulting Group, Inc.
+MBR Targeting Gmbh
+MediaMath
+Meetrics
+MindTake Research
+Mobitrans
+Mobpro
+Moloco Ads
+MSI-ACI
+Nano Interactive
+Navegg
+Neodata Group
+NEORY GmbH
+Netflix
+Netquest
+Neuralone
+Neustar
+Nielsen
+Nordic Factory Solutions AB
+numberly
+Oath
+Objective Partners
+Omnicom Media Group
+On Device Research
+OneTag
+OpenX Technologies
+Optomaton
+Oracle Data Cloud
+OTTO
+PERMODO
+Pixalate
+Platform161
+PMG
+Protected Media
+Publicis Groupe
+PubMatic
+PulsePoint
+Quantcast
+Rackspace
+Rakuten Marketing
+Refined Labs
+Relay42
+Remerge
+Resonate
+RevJet
+RhythmOne LLC
+RN SSI Group
+Roq.ad
+RTB House
+Rubicon Project
+Salesforce DMP
+Scenestealer
+Scoota
+Seenthis
+Semasio GmbH
+SFR
+Sift Media
+Simpli.fi
+Sizmek
+Smaato
+Smadex
+Smart
+Smartology
+Sociomantic
+Sojern
+Sovrn
+Spotad
+SpotX
+TabMo
+Taboola
+TACTIC™ Real-Time Marketing
+Teads.TV
+TEEMO
+The Trade Desk
+Tradedoubler
+travel audience – An Amadeus Company
+TreSensa
+TripleLift
+True Ultimate Standards Everywhere Inc.
+TruEffect
+Turbobytes
+UDG
+usemax (Emego GmbH)
+Videology
+Vimeo
+Virtual Minds
+Vodafone GmbH
+Waystack
+Weborama
+White Ops
+Widespace
+WPP
+Yieldr
+ZMS
+Opt out / Privacy Settings
+If you have consented to personalised advertisements but wish to change your mind, you can click the Opt-Out link in the footer of the website in question.
+Alternatively you can simply delete your cookies (see below). You’ll then be asked to re-consent and can opt-out.
+Please note, if you opt you may see ads that are less relevant to you. These ads still use cookies (see below), but not for personalization.
+Cookies
+Cookies are small text files on your computer set by our web server.
+What are they used for?
+Cookies allow us to permanently store information about your visit to enable a better experience when you return in the future and browse to other pages. For example, a cookie may store the contents of your shopping basket, whether you're logged in or if you've disabled the mobile website.
+Generally cookies are used to enable the website to function correctly, by storing where you are in a particular transaction or part of the site, so that the next page you visit can be tailored to your needs.
+However they are also used for other purposes like performance analysis, website statistics and advertising targeting.
+Here is a breakdown of the common classifications of cookies we use and how we use them.
+Strictly necessary
+These cookies are essential to enable the website to function, for you to navigate. Without these you will not be able to use the site, e.g. Session Cookies.
+Functional cookies
+These cookies tailor the website to you by storing certain preferences. For example, spyka Web Group websites may store a cookie on your computer or device if you switch between the mobile and desktop versions of our website.
+Performance cookies
+These cookies are used to improve our websites for you, by allowing us to view detailed statistics and analytics, for example which pages are the most read.
+In particular, our websites may makes use of Google Analytics which sets a range of Performance Cookies. You can find out information about these and opt out below:
+https://tools.google.com/dlpage/gaoptout
+Advertising cookies
+These cookies are used to decide which types of adverts to display. We use adverts on the site to allow you to browse it for free, whilst also paying the ever increasing hosting bills.
+Where these cookies are used for personalisaiton, we will ask require consent before placing them. You can opt out at any time (see above).
+spyka Web Group accepts no responsibility for any third party advertisements that may appear on our websites or how they may collect and use your information. When clicking on an advert you are longer protected by this privacy policy (see: external links below).
+Managing cookies
+Your browsing software will allow you to change how our website and others set and use cookies, from blocking them entirely to allowing only certain types or websites to use cookies
+Naturally, disabling certain cookies may cause certain parts of the website to stop functioning.
+None the less, find out how to change the cookie settings in your browser below...
+Internet Explorer
+http://support.microsoft.com/kb/196955
+Safari
+http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html
+Google Chrome
+http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647
+Firefox
+http://support.mozilla.org/en-US/kb/Cookies
+Opera
+http://www.opera.com/browser/tutorials/security/privacy/
+Safari, iPhone, iPad
+http://support.apple.com/kb/HT1677
+Android
+http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022
+Blackberry
+http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp
+Windows Phone
+http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx
+Flash cookies
+Cookies may also be set using Flash.
+To find out and change the settings of these, follow the link below http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html
+External links
+spyka Web Group is in no way responsible for the content, security or privacy policy of websites outside of the spyka Web Group network of websites. Once you leave a sWG website you will be subject to that sites privacy policy.
+Policy changes
+spyka Web Group reserves the right to revise and make changes to this policy at any time. The up to date version will be available from www.spyka.co.uk
+Contact information
+You can contact sWG by email in regards to this privacy policy from this contact form

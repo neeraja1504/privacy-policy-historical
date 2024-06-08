@@ -1,0 +1,125 @@
+The following text is extracted and transformed from the resourceshelf.com privacy policy that was archived on 2008-12-26. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+ResourceShelf » Privacy
+Archive for the ‘Privacy’ Category
+Sony BMG Music Settles Charges Its Music Fan Websites Violated the Children’s Online Privacy Protection Act
+Sunday, December 14th, 2008
+Sony BMG Music Settles Charges Its Music Fan Websites Violated the Children’s Online Privacy Protection Act
+Sony BMG Music Entertainment (Sony Music) has agreed to pay $1 million as part of a settlement to resolve Federal Trade Commission charges that it violated the Children’s Online Privacy Protection Act (COPPA) and the Commission’s implementing Rule. The Commission’s complaint alleges that, through its music fan Web sites, Sony Music improperly collected, maintained and disclosed personal information from thousands of children under the age of 13, without their parents’ consent. The civil penalty to be paid by Sony Music matches the largest penalty ever in a COPPA case.
+Sony BMG Music Entertainment, a subsidiary of Sony Corporation of America, represents hundreds of popular musicians and entertainers, including numerous artists popular with children and teenagers. The company operates over 1,000 Web sites for its musical artists and labels. Sony Music requires users to submit a broad range of personal information, together with date of birth, in order to register for these sites. On 196 of these sites, Sony Music knowingly collected personal information from at least 30,000 underage children without first obtaining their parents’ consent, in violation of COPPA. Many of these sites also enable children to create personal fan pages, review artists’ albums, upload photos or videos, post comments on message boards and in online forums, and engage in private messaging. In this way, children were able to interact with Sony Music fans of all ages, including adults.
+“Sites with social networking features, like any Web sites, need to get parental consent before collecting kids’ personal information,” said FTC Chairman William E. Kovacic. “Sony Music is paying the penalty for falling down on its COPPA obligations.”
++ United States of America (For the Federal Trade Commission), Plaintiff, v. Sony BMG Music Entertainment
++ How to Protect Kids’ Privacy Online
++ OnGuard Online: Social Networking Sites
++ Facts for Businesses: How to Comply With The Children’s Online Privacy Protection Rule
+Source: Federal Trade Commission
+Posted in Privacy, Search News, Social Media, Web 2.0 | No Comments »
+Facebook pages in National Archives?
+Monday, December 8th, 2008
+Facebook pages in National Archives?
+Say you’re a hopeful applicant for a job in the new Obama administration, and you’ve dutifully filled out the seven-page, 63-question disclosure questionnaire mandated by the transition office.
+In it, you revealed the content of your Facebook page — after deleting those New Year’s Eve photos from 2005! – that mole you had removed from your neck a couple of months ago and the details of your inheritance from Great Aunt Edna.
+You hit the send button.
+And then you think: Just who’s going to be reading this? And when similar information from all of the Obama applicants has been gathered, creating one of the largest treasure troves of personal secrets of powerful people in the world, exactly who will own that database?
+Don’t ask the Obama team, it’s not saying.
+A spokesman for the presidential transition declined to reveal the number of people who’ll have access to the disclosure information, where it will be kept and what will be done with it at the end of the transition. “I can’t comment at all on that,” said Obama spokesman Reid Cherlin.
+Clearly, the database being built by the Obama team will be of enormous interest to people on the transition staff and beyond. It will be especially interesting to people the Obama team would least like to have access to it — hackers, political dirty tricksters and hostile foreign governments, among others.
+“There may be 10,000 or 15,000 people who fill these things out, but I can think of 10 [million] or 15 million people who’d like to read them,” said Paul Light, a professor of public service at New York University who wrote the textbook on government service.
+Source: Politico
+Posted in Databases, Directories, and Guides, Government Documents and Political Information, Privacy, Search News | No Comments »
+10 Top Tips: A Consumer’s Guide to Id Theft Awareness and Avoidance
+Sunday, December 7th, 2008
+10 Top Tips: A Consumer’s Guide to Id Theft Awareness and Avoidance
+The FTC estimates that as many as nine million Americans have their identities stolen each year, so chances are high that you or someone you know has fallen victim to what has become one of America’s fastest-growing crimes. While there are no guarantees as far as prevention, there are certain steps every consumer can and should be taking – before and after the fact – to greatly reduce their potential risk.
+ID theft expert Brian Lapidus, chief operating officer of Kroll’s Fraud Solutions, has unique frontline experience helping today’s businesses and consumers safeguard against and respond to data breaches. Below he offers some important advice that every consumer should know about protecting themselves from the damages of fraud. At Kroll, Lapidus oversees a highly-skilled team that includes veteran licensed investigators specializing in supporting breach victims and restoring individuals’ identities to pre-theft status.
+See also: Top 10 Tips for Businesses: A Guide to Data Breach Prevention and Response
+Source: Kroll Fraud Solutions
+Posted in Lists and Rankings, Privacy, Source File, Technology and Internet | No Comments »
+Consumer Watchdog Exposes Google Privacy Problems & Calls For Attorneys General Investigation
+Monday, November 3rd, 2008
+Consumer Watchdog Exposes Google Privacy Problems& Calls For Attorneys General Investigation
+Consumer Watchdog has created a You Tube video showing how your computer could be having an unnoticed conversation about you with Google. The nonprofit group has called on Google’s founders and directors to adopt new privacy safeguards that allow for anonymous internet and software use. Watch the video here and read the letter to Google’s founders here.
+Earlier this month Consumer Watchdog wrote the Justice Department to block Google’s proposed advertising alliance with Yahoo based on these privacy concerns; an announcment about the deal is expected later this week. The letter notes that the introduction of Google’s new browser, known as “Chrome,” without new privacy protections, poses an unprecedented threat to consumers. (Read it by clicking here.)
+Source: Consumer Watchdog (formerly The Foundation for Taxpayer and Consumer Rights)
+Posted in Privacy, Search News, Technology and Internet, Web Search | No Comments »
+Internet Browsers Increasingly Competing on Privacy Controls: Privacy focus means more choice for consumers protecting their personal data
+Monday, October 27th, 2008
+Internet Browsers Increasingly Competing on Privacy Controls: Privacy focus means more choice for consumers protecting their personal data
+Internet browser developers are increasingly competing to offer the most robust privacy controls, a new report by the Center for Democracy & Technology finds. This new competitive focus on privacy represents a boon to consumers who can now base their Web surfing decisions on which browser best suits their personal privacy needs.
+The report reviews and compares the privacy tools available for the latest versions of Mozilla Firefox, Microsoft Internet Explorer, Google Chrome and Apple’s Safari. The report compares the browsers in their offering of three key tools — privacy mode, cookie controls and object controls – which can greatly reduce the amount of personal information users give up online and leave behind on their computers.
++ Full Report (PDF: 10.7 MB)
+Source: Center for Democracy & Technology
+Posted in Privacy, Search News, Software and Web-Based Applications, Source File, Technology and Internet | No Comments »
+New Data Privacy Laws Set For Firms
+Thursday, October 16th, 2008
+New Data Privacy Laws Set For Firms
+Nevada is the first of several states adopting new laws that will force businesses — from hair stylists to hospitals — to revamp the way they protect customer data. Starting in January, Massachusetts will require businesses that collect information about that state’s residents to encrypt sensitive data stored on laptop computers and other portable devices. Michigan and Washington state are considering similar regulations.
+While just a few states have adopted such measures so far, the new patchwork of regulations is something many businesses will have to navigate, since the laws apply to out-of-state companies with operations or customers in those states.
++ Wall Street Journal
+Posted in Privacy, Search News | No Comments »
+FTC — Consumers Warned to Avoid Fake E-mails Tied to Bank Mergers
+Saturday, October 11th, 2008
+Consumers Warned to Avoid Fake E-mails Tied to Bank Mergers
+Online scammers are taking advantage of tough economic times. While e-mails phishing for sensitive data are nothing new, scammers are taking advantage of upheavals in the financial marketplace to confuse consumers into parting with valuable personal information.
+The Federal Trade Commission urges caution regarding e-mails that look as if they come from a financial institution that recently acquired a consumer’s bank, savings and loan, or mortgage. In fact, these messages may be from “phishers” looking to use personal information – account numbers, passwords, Social Security numbers – to run up bills or commit other crimes in a consumer’s name.
++ Bank Failures, Mergers and Takeovers: A ‘Phish-erman’s Special
+Posted in Business and Economics, Information Seeking, Privacy, Search News | No Comments »
+All Counterterrorism Programs That Collect and Mine Data Should Be Evaluated for Effectiveness, Privacy Impacts; Congress Should Consider New Privacy Safeguards
+Thursday, October 9th, 2008
+All Counterterrorism Programs That Collect and Mine Data Should Be Evaluated for Effectiveness, Privacy Impacts; Congress Should Consider New Privacy Safeguards
+All U.S. agencies with counterterrorism programs that collect or “mine” personal data — such as phone, medical, and travel records or Web sites visited — should be required to systematically evaluate the programs’ effectiveness, lawfulness, and impacts on privacy, says a new report from the National Research Council. Both classified and unclassified programs should be evaluated before they are set in motion and regularly thereafter for as long as they are in use, says the report. It offers a framework agencies can use to assess programs, including existing ones.
+The report also says that Congress should re-examine existing law to assess how privacy can be protected in such programs, and should consider restricting how personal data are used. And it recommends that any individuals harmed by violations of privacy be given a meaningful form of redress.
+Read for free online.
+Source: National Research Council/National Academies Press
+Posted in Info Management and Retrieval, Papers and Presentations, Privacy, Source File | No Comments »
+Drunken drivers on notice: Searchable database of multiple repeaters to be online by Dec. 31
+Wednesday, October 1st, 2008
+Drunken drivers on notice: Searchable database of multiple repeaters to be online by Dec. 31
+A click of a computer mouse soon will be all it takes to find out whether a repeat drunken driver lives in your neighborhood.
+A law that takes effect today requires courts to send information on such drivers to the Ohio Department of Public Safety, which will create and manage a searchable online database.
+The name, birth date and address will be listed for anyone convicted of drunken driving at least five times in a 20-year period. Other related convictions, such as vehicular assault, vehicular homicide or driving under the influence of drugs, also will count toward the five-conviction minimum.
+The department has until the end of the year to get the database up, but officials aren’t sure when it will ready, said spokeswoman Lindsay Komlanc.
+Source: Columbus Dispatch
+Posted in Access to Information, Databases, Directories, and Guides, Privacy, Search News | No Comments »
+Paper — The Time Value of Reading Privacy Policies
+Saturday, September 27th, 2008
+The Time Value of Reading Privacy Policies (PDF; 377 KB)
+Companies collect personally identifiable information that website visitors are not always comfortable sharing. One proposed remedy is using economics rather than legislation to address privacy risks by creating a market place for privacy where website visitors would choose to accept or reject offers for small payments in exchange for loss of privacy. The notion of micropayments for privacy has not been realized in practice, perhaps because as Simson Garfinkel points out, advertisers might be willing to pay a penny per name and address yet few people would sell their contact information for only a penny (Garfinkel, 2001). In this paper we contend that the time to read privacy policies is, in and of itself, a form of payment. However, instead of receiving payments to reveal information, website visitors must pay with their time to research policies in order to retain their privacy. We pose the question: if website users were to read the privacy policy for each site they visit just once a year, what would the loss of their time be worth?
+Studies show privacy policies are hard to read, read infrequently, and do not support rational decision making. We calculated the average time to read privacy policies in two ways. First, we used a list of the 75 most popular websites and assumed an average reading rate of 250 words per minute to find an average reading time of 10 minutes per policy. Second, we conducted an online study of 93 participants to measure time to skim online privacy policies and respond to simple comprehension questions with an average time of 6 minutes per policy. We then used data from Nielsen/Net Ratings to estimate the number of unique websites the average Internet user visits annually with a lower bound of 119 sites. We estimated the total number of Americans online based on Pew Internet & American Life data and Census data. Finally, we estimated the value of time as 25% of average hourly salary for leisure and twice wages for time at work. We present a range of values, and found the nationwide cost for just the time to read policies is on the order of $136 billion. Additional time for comparing policies between multiple sites in order to make informed decisions about privacy brings the social cost well above the market for online advertising. Given that web users also have some value for their privacy on top of the time it takes to read policies, this suggests that under the current self-regulation framework, targeted online advertising may have negative social utility.
+See: Lost in the Fine Print: It Would Take a Week to Read All Your Privacy Policies (Washington Post)
+Posted in Papers and Presentations, Privacy, Source File | No Comments »
+Google promises EU better privacy rules
+Tuesday, September 9th, 2008
+From the article:
+Google Inc. said Tuesday it will further cut the amount of time it keeps users’ data logged on its search engine to meet EU privacy demands.
+Peter Fleischer, Google’s global privacy adviser, said the company will reduce the time it stores search information from 18 months to nine. Google introduced an 18-month limit in 2007.
+[snip]
+Fleischer also announced that additional changes are being made to Google’s “Suggest” application which allows users to make searches faster when the feature offers suggestions of search items in real-time. He said Google only logs 2 percent of data collected on such searches but said they will all be erased after a 24-hour period starting later this month.
+Source: AP
+Posted in Privacy, Search News | No Comments »
+Identity theft sample letters
+Saturday, September 6th, 2008
+Identity theft sample letters
+It’s unpleasant to find out that someone stole your credit card numbers, but it’s even worse when a collection agency begins harassing you over debt you didn’t create. CreditCards.com has assembled sample letters and a step-by-step guide to help identity theft victims clear their names and protect their credit.
+Source: CreditCards.com
+Posted in Privacy, Source File | No Comments »
+Student Files Are Exposed on Web Site
+Thursday, August 21st, 2008
+Student Files Are Exposed on Web Site
+The Princeton Review, the test-preparatory firm, accidentally published the personal data and standardized test scores of tens of thousands of Florida students on its Web site, where they were available for seven weeks.
+A flaw in configuring the site allowed anyone to type in a relatively simple Web address and have unfettered access to hundreds of files on the company’s computer network, including educational materials and internal communications.
+Another test-preparatory company said it stumbled on the files while doing competitive research. This company provided The New York Times with the Web address of the internal files on the condition that it not be named. The Times informed the Princeton Review of the problem on Monday, and the company promptly shut off access to that portion of its site.
+Source: Gainesville.com
+Posted in Education, Privacy, Search News, Technology and Internet | No Comments »
+Library of Congress Adds New Authors to Eighth Annual National Book Festival; Free Podcasts Invite Nationwide Participation in Celebration of Reading
+Wednesday, August 13th, 2008
+From the news release:
+The Library of Congress has added new famed authors to the award-wining lineup for the 2008 National Book Festival. Free downloadable podcasts, available on iTunes and the Library’s Web site, as well as other interactive features, bring the magic of the National Book Festival to booklovers nationwide.
+Posted in Databases, Directories, and Guides, Info Management and Retrieval, Privacy, Web Search | No Comments »
+If You Run a Red Light, Will Everyone Know?
+Monday, August 4th, 2008
+If You Run a Red Light, Will Everyone Know?
+WANT to vet a baby sitter? Need to peek into the background of a prospective employee? Curious about the past of a potential date?
+Last month, PeopleFinders, a 20-year-old company based in Sacramento, introduced CriminalSearches.com, a free service to satisfy those common impulses. The site, which is supported by ads, lets people search by name through criminal archives of all 50 states and 3,500 counties in the United States. In the process, it just might upset a sensitive social balance once preserved by the difficulty of obtaining public documents like criminal records.
+Source: New York Times
+See also: Is ChoicePoint a Model of Restraint in Releasing Criminal Records?
+Posted in Access to Information, Privacy, Search News | No Comments »

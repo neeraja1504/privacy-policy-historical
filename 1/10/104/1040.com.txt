@@ -1,0 +1,87 @@
+The following text is extracted and transformed from the 1040.com privacy policy that was archived on 2019-05-14. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy • 1040.com – File Your Taxes Online
+Effective on 1/7/2019
+This Privacy Policy applies to www.1040.com (the "Site") and the 1040.com online tax filing service (the "Service") (collectively, “Our Site and Service”) owned and operated by Drake Software (“Drake”, "we", "us", or "our"). This Privacy Policy describes how Drake collects and uses the personal information you provide on Our Site and Service. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This Privacy Policy covers Drake’s collection, use and disclosure of information you provide through Our Site and Service. The use of information collected through Our Site and Service is limited to the purpose of providing and improving Our Site and Service as described in this Privacy Policy. By using Our Site and Service, you agree to the collection and use of information in accordance with this Privacy Policy.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+Collection and Use | Choice/Opt-Out |  Information Sharing | Tracking Technologies | Testimonials and Feedback | How We Respond To Do Not Track Requests | Security | Additional Info | Contact Info
+Collection and Use of Personal and Technical Information
+We may collect personal information from you, including but not limited to:
+Contact information such as name, email address, mailing address and phone number
+Unique identifiers such as username, account number and password
+Billing information such as credit card number, billing address and expiration date
+Tax-filing related information necessary to help you file an accurate tax return
+We may also collect technical information about your visit including but not limited to:
+The website you visited before our Site
+The pages you visit on Our Site and Service
+The website you visit next
+The browser you use
+Your computer’s IP address
+Any search terms entered on Our Site and Service
+We use cookies and other technology to collect this data (see section “Cookies and Other Tracking Technologies”). We use this data to:
+Provide Our Site and Service
+Fulfill your order
+Send you an order confirmation
+Send you requested product or service information
+Send product updates or warranty information
+Respond to customer service requests
+Administer your account
+Send you marketing communications
+Protect your data
+Improve Our Site and Service and marketing efforts
+Conduct research and analysis
+Service Provider Collection/Use
+Our Web Sites and Services are sometimes offered by Providers through a white-label agreement or similar agreement. In these cases, Drake acts as a service provider and has no direct relationship with the individuals whose personal information it processes under the direction of the Provider. If you access Our Web Sites and Services through a Provider’s website or other sign-in method unique to the Provider, you are a customer of the Provider. If you would no longer like to be contacted by the Provider, contact the Provider directly to unsubscribe from their contact services. If requested to remove data we will respond within a reasonable timeframe. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Providers.
+We will retain personal data we process on behalf of our Providers for as long as needed to provide services to our Providers. Drake will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Choice/Opt-Out
+You may choose to stop receiving our newsletter emails or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at support@1040.com. If you choose to stop receiving our newsletter emails or marketing emails, we will continue to send you necessary service and transactional communications.
+Third Party Information
+If you provide us personal information about others, or if others give us your personal information such as name, Social Security number and date of birth for tax filing purposes, we will only use that information for the specific reason for which it was provided to us.
+Information Sharing
+We will share your personal information with third parties only in the ways that are described in this Privacy Policy. We do not sell your personal information to third parties.
+We may share your personal information with third parties that help us provide Our Site and Service such as a credit card processing company to bill you for services, a W2 import service to import your W2 information, or an email service provider to send out emails on our behalf. In addition, with your permission, we may provide your personal information to third parties that facilitate additional services to you at your request such as audit assistance or using your federal tax refund to pay your tax preparation fees. All third parties referred to in this section are subject to confidentiality obligations with respect to your information and are authorized to use the information only as necessary to provide their services or in conjunction with Our Site and Service.
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+We may also disclose your personal information:
+as required by law such as to comply with a subpoena, or similar legal process;
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+if Drake is involved in a merger, acquisition, or sale of all or a portion of its assets; if this occurs, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information;
+to any other third party with your prior consent to do so.
+For more information on how we use your information, you may contact us at support@1040.com.
+Cookies and Other Tracking Technologies
+We use cookies or similar technologies to analyze trends, administer the Site, track users’ movements around Our Site and Service and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies on an individual as well as aggregated basis.
+We use cookies for remembering user settings. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use the Site, but your ability to use some features or areas of Our Site and Service may be limited.
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
+We may combine this automatically collected log information with other information we collect about you. We do this to improve Our Site and Service.
+Advertising
+We may partner with a third party to either display advertising on Our Site and Service or to manage our advertising on other websites. Our third-party partners may use technologies such as cookies to gather information about your activities on Our Site and Service and on other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+Links to other websites
+Our Site and Service include links to third-party websites whose privacy practices may differ from those of Drake. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+Social Media Features
+Our Site and Service include social media features, such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and related widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these social media features are governed by the privacy policy of the company providing the service.
+Testimonials/Feedback
+We display personal testimonials and feedback of satisfied customers on Our Site and Service in addition to other endorsements. With your consent (see Terms of Service, Section 6, Part B), we may post your testimonial, or feedback, along with information such as your first name, last name initial, and city and state of residence. If you wish to update or delete your testimonial or feedback, you can send the request to support@1040.com.
+Do Not Track Signals
+There is no uniform or consistent standard or definition for responding to, processing, or communicating Do Not Track signals. At this time Our Web Sites and Services do not function differently based on a user's Do Not Track signal. For more information on Do Not Track signals, see All About Do Not Track (https://allaboutdnt.com).
+Security
+The security of your personal information is important to us. We maintain reasonable and appropriate security measures to protect your data from loss, misuse, unauthorized access, disclosure, alteration or destruction in accordance with this Privacy Policy. When you enter sensitive information (such as a credit card number) on Our Site and Service, we encrypt the transmission of that information using secure socket layer technology (SSL).
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+The safety and security of your information also depends on you. Where you have chosen a username and password to access your account and certain parts of Our Site and Service, you are responsible for keeping this password confidential. In the event that you believe your password has been compromised, please contact us at support@1040.com.
+If you have any questions about security on Our Site and Service, please contact us at support@1040.com.
+Additional Policy Information
+Children's Privacy
+Our Site and Service are not targeted at children of any age, and we do not collect information from children under age 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information.
+Correcting and Updating Your Personal Information
+Drake acknowledges that you have the right to access your personal information. Upon request, we will provide you with information about whether we hold any of your personal information. To review, update or amend your personal information, or to request deletion of your personal information, or to request that we no longer use your personal information to provide you services, you may log into your account and make the appropriate changes in your account management center or you may contact us at support@1040.com with a detailed request. The email should include your first and last name, account username or email address used to set up the account, and a detailed description of your request. If this information is provided, we will respond to your request within 30 days.
+We will retain your information for as long as your account is active or as needed to provide you with Our Site and Service. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. You may continue to receive marketing emails and newsletter emails even after you stop utilizing Our Site and Service, unless you have opted out of receiving marketing emails and newsletter emails using the method described in the Choice/Opt-Out section of this Privacy Policy.
+Notification of Privacy Policy Changes
+We may update this Privacy Policy to reflect changes to our information practices. If we make material changes to our Privacy Policy we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on Our Site and Service.. We encourage you to periodically review this page for the latest information on our privacy practices.
+General Data Protection Regulation
+The General Data Protection Regulation (GDPR), a regulation in European Union (EU) law, is a new set of rules that changes the way personal data of individuals inside the European Economic Area (EEA) can be collected and processed. Among other things, the law can apply to non-EU companies who are offering goods or services to persons inside the EEA.  Drake takes the privacy and security of its customers, and of any person whose data Drake handles, very seriously.  Drake does not sell personal data to third parties, and follows stringent data privacy and cyber security protocols to protect the personal data it handles. However, the GDPR is a unique set of regulations particular to EU law, and does not mesh well with the current framework in the United States.
+Drake is headquartered in Franklin, North Carolina in the United States. Our sites and services are hosted and administrated in the United States or hosted with cloud service providers who are headquartered in the United States. Drake's target users are in the United States. Drake does not currently intend to offer goods or services to individuals in the European Union. If you are located in the European Union, or anywhere outside of the United States, be aware that information you provide to us or that we obtain as a result of your use of our sites and services may be processed in, transferred to, and stored in the United States and will be subject to United States law. The privacy and data protection laws of the United States may be different from the laws of your country of residence.
+With the implementation of GDPR, we are taking further steps to ensure that any potential customers understand that Drake does not intend to sell its goods or services to persons inside the EEA.  These include limiting access to certain web-based services when attempting to access from within EU borders.
+Contact Information
+You can contact us about this Privacy Policy by writing or emailing us at the address below:
+Drake Software
+235 East Palmer Street
+Franklin, NC, United States 28734
+Email: support@1040.com

@@ -1,0 +1,19 @@
+The following text is extracted and transformed from the phing.com privacy policy that was archived on 2019-12-16. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy Policy - pHing.com Classifieds
+pHing has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website.
+Information Automatically Logged
+We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information, and for other purposes. Logged IP address is used to track users as and when necessary, for example, when member has violated our Terms of Service or when required by law.
+Cookies
+Our site uses cookies to keep track of user sessions, and to deliver content specific to your interests. We also use cookies to save your encrypted authentication information if you choose to "Remember Me".
+Advertisers
+We use a 3rd party ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+User Data
+Other than the required email address and mobile number (if you wish to post an ad), all data provided are on a voluntary basis. You may choose to remove any profile information as you wish.
+External Links
+This site contains links to other sites. pHing is not responsible for the privacy practices or the content of those sites.
+Discussions
+This site allows discussions to be made between its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Privacy Options
+Our site provides registered users the opportunity to opt-out of receiving promotional/marketing information from us and our partners. Opt-out instructions will be provided at the end of all marketing materials.
+If you have any questions about this privacy statement or the practices of this site, feel free to contact us.
+Last updated on 30 July 2014.

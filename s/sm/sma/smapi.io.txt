@@ -1,0 +1,23 @@
+The following text is extracted and transformed from the smapi.io privacy policy that was archived on 2019-08-25. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+SMAPI privacy notes - SMAPI.io
+← back to SMAPI page
+SMAPI is an open-source and non-profit project. Your privacy is important, so this page explains what information SMAPI uses and transmits. This page is informational only, it's not a legal document.
+Principles
+SMAPI collects the minimum information needed to enable its features (see below).
+SMAPI does not collect telemetry, analytics, etc.
+SMAPI will never sell your information.
+Data collected and transmitted
+Web logging
+This website and SMAPI's web API are hosted by Amazon Web Services. Their servers may automatically collect diagnostics like your IP address, but this information is not visible to SMAPI's web application or developers. For more information, see the Amazon Privacy Notice.
+Update checks
+SMAPI notifies you when there's a new version of SMAPI or your mods available. To do so, it sends your SMAPI and mod versions to its web API. No personal information is stored by the web application, but see web logging.
+You can disable update checks, and no information will be transmitted to the web API. To do so:
+find your game folder;
+open the smapi-internal/config.json file in a text editor;
+change "CheckForUpdates": true to "CheckForUpdates": false.
+Log parser
+The log parser page lets you store a log file for analysis and sharing. The log data is stored indefinitely in an obfuscated form as unlisted pastes in Pastebin. No personal information is stored by the log parser beyond what you choose to upload, but see web logging and the Pastebin Privacy Statement.
+Multiplayer sync
+As part of its multiplayer API, SMAPI transmits basic context to players you connect to (mainly your OS, SMAPI version, game version, and installed mods). This is used to enable multiplayer features like inter-mod messages, compatibility checks, etc. Although this information is normally hidden from players, it may be visible due to mods or configuration changes.
+Custom mods
+Mods may collect and transmit any information. Mods (except those provided as part of the SMAPI download) are not covered by this page. Install third-party mods at your own risk.

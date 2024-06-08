@@ -1,0 +1,26 @@
+The following text is extracted and transformed from the linfoxdomain.com privacy policy that was archived on 2008-12-04. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+linFox Domain :: Privacy Policy
+linFox Domain collects basic data about the user, limited to the following:
+Site-wide: Selection options for the navigation bar style are stored in browser-based cookies.
+No other personal or public data is stored.
+linFox Domain Anonymous Emailer:
+Emails you send are logged, as well as the senders' IP address, for security purposes.
+We will never view, retransmit or sell this data unless requested by a high power (ie. authorities).
+No other personal or public data is stored.
+net2ftp Online FTP Service:
+We do not collect or store data such as server addresses, username and passwords.
+Information such as time of access and user IP address are collected, for security purposes.
+We will never view, retransmit or sell this data unless requested by a high power (ie. authorities).
+No other personal or public data is stored.
+linFox Domain Flash Games
+Vote value, the time and date of the vote and the user IP address are logged, only when the user places a vote on a game with the voting system.
+A time limit for voting flood control is stored in a browser-based cookie.
+No other personal or public data is stored.
+Forums:
+Any data you enter while registering, posting or taking any other actions on the forum may be viewed by the webmaster or the general public.
+No other personal or public data is stored.
+Contact Form:
+Any data you send via the contact form is viewed by the webmaster and may be stored for future reference.
+No other personal or public data is stored.
+If you wish to discuss these policies, please contact the webmaster via the 'Contact' link on the Navigation Bar.
+Last revised: 22/07/2007

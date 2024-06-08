@@ -1,0 +1,225 @@
+The following text is extracted and transformed from the jamesshuggins.com privacy policy that was archived on 2015-10-11. Please check the original snapshot on the Wayback Machine for the most accurate reproduction.
+Privacy Statement
+|
+---|---
+|
+** Privacy Policy
+for
+James S. Huggins' Refrigerator Door **
+Tim Berners-Lee, the inventor of the web, said
+"A responsible Web site will have a privacy policy
+one click away from the bottom of the home page."
+On my website, this privacy policy is linked at the bottom of (almost) every page.
+I created this privacy policy in order to demonstrate my firm commitment to privacy.   This page discloses my information gathering and dissemination practices for my website: James S. Huggins' Refrigerator Door. As you can see, it was not written by lawyers!
+** Other Privacy Pages On My Site **
+** CIPEATone **
+On Wednesday, 26.Jul.2000, Senators Spence Abraham, John McCain and John Kerry introduced the Consumer Internet Privacy enhancement Act (CIPEA). This proposed legislation never made it into the law. But I used the law as a model to construct a privacy statement which would comply. I did it as an exercise in learning more about privacy principles.
+I have created a  CIPEAprivacy disclosure page (which I call CIPEATone) to clarify the the notices proposed by CIPEA(Consumer Internet Privacy enhancement Act). All of the disclosures on the CIPEATone page are functional duplicates of disclosures on my privacy page, but they have been "organized" according to the structure of CIPEA. This page also provides background and impact information regarding CIPEA and links to other articles and resources for CIPEA.
+** COPPA Cabana **
+I have created a  COPPA Privacy Disclosure page (which I call COPPA Cabana) to provide the notices required by COPPA (Children's Online Privacy Protection Act) related to information practices of this site regarding personal information and privacy of children. This page also provides background and impact information regarding COPPA and links to other articles and resources for COPPA.
+** OECD Privacy Statement **
+A long, long time ago, on 23.Sep.1980, the Organization for Economic Co-operation and Development, (OECD), issued Guidelines on the Protection of Privacy and Transborder Flows of Personal Data.
+(Did you notice that date? 1980!! Privacy issues are not new.)
+Recently OECD created the OECD Privacy Statement Generator to help organizations create privacy statements to post on websites.
+I have created an  OECD Privacy Disclosure page (which I call OECD Privacy-D) to stipulate how this site complies with the seven privacy principles.
+All of the disclosures on the OECD Privacy-D page are functional duplicates of disclosures on my privacy page, but they have been "organized" according to the structure of the OECD Privacy Principles. This page also provides background and impact information regarding the OECD Privacy Guidelines links to other resources for the OECD Privacy Guidelines.
+Scenic Overlook
+I don't really care who you are. I don't really care if you are married, or where you live, or how many goldfish you have.
+I do care about your privacy.
+I only collect personal information in four ways:
+My webserver,
+My email/ezine lists (e.g., _Snippets _ and TestZine),
+This site's Guestbook, and
+Anything you disclose in an email to me
+Privacy Principles
+The principles of web/internet personal privacy are based on:
+Notice
+Choice
+Access
+Security
+enforcement
+History of the Privacy Principles
+In 1972, elliot L. Richardson, as Secretary of HeW (the U.S. Department of Health education and Welfare), created an Advisory Committee on Automated Personal Data Systems. Their charter was to explore the impact of computerized record keeping on individuals. One year later (1973) the committee published its report. This report, Records, Computers, and the Rights of Citizens , proposed a  Code of Fair Information Practice:
+There must be no personal data record keeping systems whose very existence is secret.
+There must be a way for an individual to find out what information about him is in a record and how it is used.
+There must be a way for an individual to prevent information about him that was obtained for one purpose from being used or made available for other purposes without his consent.
+There must be a way for an individual to correct or amend a record of identifiable information about him.
+Any organization creating, maintaining, using, or disseminating records of identifiable personal data must assure the reliability of the data for their intended use and must take precautions to prevent misuse of the data.
+These principles began a basis for subsequent codes and laws related to information collection.
+The principles became part of the framework for the Privacy Act of 1974. They were elaborated on when the Privacy Protection Study Commission (PPSC) published its report Personal Privacy in an Information Age.
+In 1980, The Organization for economic Cooperation and Development further refined them in _ Guidelines on the Protection of Privacy and Transborder Flows of Personal Data. _
+They also form a basis of the eU Privacy Directive.
+And, you can see them discussed in Part III of the 1998 Federal Trade Commission report: Privacy Online.
+They continue today to be advocated and incorporated into enforcement initiatives, laws and legislative proposals.
+** Notice **
+People are entitled to notice of the collection, use and disclosure of personal information. The notice should include:
+who is doing the collecting,
+what data is being collected,
+how it will be used,
+to whom it may be disclosed, and
+the consequences of refusing to give the information
+The notice should also address the other principles of choice, access, security and enforcement.
+** Choice **
+People should have choices about how their information is used or disclosed to third parties. Choice may be "opt in" in which people affirmatively consent to the use or disclosure. Or the choice may be "opt out" in which the consent is presumed unless people object. "Opt in" provides strong privacy protection because it establishes a default rule against disclosure and use.
+It is generally agreed that the choice is about use and disclosure beyond the original purpose for which the information was provided. Use and disclosure to complete a purchase transaction is, of course, required. However, such use and disclosure should be the minimum required to complete the transaction.
+** Access **
+People should have access to information stored about them, together with the opportunity to correct the information or to have it deleted.
+** Security **
+Operators should protect the security of personal data and ensure its integrity and accuracy.
+** enforcement **
+Of course, none of these make any difference if if the principles are not enforceable.
+How to enforce is at the heart of a gigantic debate including proposals for self-regulation and counter-proposals for additional federal legislation.
+Privacy Principles On This Site
+The five principles are important to this site. I take them seriously.
+** Notice **
+I provide complete (some say too complete ) disclosure on this page. In addition, on my COPPA Cabana page I disclose information specific to children and privacy. And on my CIPEATone page, I disclose this same information in a format more suitable to understanding that proposed law.
+** Choice **
+I give people choices. No one needs to disclose personal information if they don't want to. Except for the obvious (like not receiving an email from me if you don't give me your email address) there are no consequences of nondisclosure. You do not need to disclose information to surf my site. All disclosure is "opt in".
+** Access **
+I provide people access to information stored about them, together with the opportunity to correct the information or to have it deleted.
+** Security **
+I protect the security of personal data and ensure its integrity and accuracy.
+** enforcement **
+I consider this agreement to be enforceable between us. I even provide alternative organizations to notify if you think I'm not holding up my end of the bargain.
+Who Operates This Site?
+I do, James S. Huggins. Just me. No one else. At the bottom of this page I have listed my address and phone numbers.
+Minimal Information
+For activities related to this site, I only use the absolute minimum information required.
+For example, when you join one of my email/ezine lists (e.g., _Snippets _ and TestZine), list I keep your email address (because it really wouldn't make much sense to have an email list if I didn't keep your email address). And I keep information necessary to provide an audit trail in order to comply with the CAN-SPAM Act of 2003.
+Also, if you write me, I'll use your email address to write you back. (duh!)
+As another example, when you click around my site, my server log files record how you clicked around. But the information doesn't tell me who you are, only that someone went from one page to another. And I only use that information to analyze traffic and don't keep it or use it beyond that.
+Sharing Information
+I don't share information. I keep any information you disclose absolutely private. This does not apply of course to the Guestbook. Information disclosed there is shared with the whole world. But that is the whole point of a Guestbook, isn't it.
+Unsolicited email
+Spammers are the scum of the earth. I will never give away, sell or disclose your email address.
+I never email you just because you visited my site because I won't have your email address. I only email you because you explicitly ask me to (e.g., to respond to a request or because you explicitly asked to join one of my email/ezine lists (e.g., _Snippets _ and TestZine), or to thank you for signing my guestbook.)
+Taping Our Phone Conversations
+I am your friend.  I am a real friend, not a Linda Tripp friend. I promise not to tape our phone conversations without telling you.
+Policy Changes
+I'm committed to privacy. I won't arbitrarily change these policies. I can't even envision changing these policies at all.
+But if I ever do change these policies, the changes won't be "retroactive". The changes will only apply to new information.
+Your info is safe. Period. End of story.
+Information Collected
+I collect information in four ways:
+My webserver,
+My email/ezine lists (e.g., _Snippets _ and TestZine),
+This site's Guestbook, and
+Anything you disclose in an email to me
+Information Collected By the Webserver
+If you visit this site, the webserver will automatically collect:
+your current TCP/IP address
+The URL of the page that referred you to my site (this is called "referrer information")
+Information Collected for My email/ezine Lists
+When you join any of my email/ezine lists (e.g., _TestZine _ and TestZine and HEFS Bulletin), I keep your email address (because it really wouldn't make much sense to have an email/ezine list if I didn't keep your email address).
+And I keep information necessary to provide an audit trail in order to comply with the CAN-SPAM Act of 2003.
+Here is a list of Subscription Information that I keep for all email/ezine lists I host on my site using the Gammadyne Mailer system:
+Personal and Status Information
+Subscriber ID
+(your unique code assigned by the system)
+Subscriber Status
+(whether you are subscribed or not; when you unsubscribe I mark you as unsubscribed, but keep you in the system to show history)
+Subscriber Name
+(if you give me your name, I keep it; otherwise I have only your email address)
+email address
+Date/Time of the subscription request
+Current Issue Information
+Sent status
+(whether the current issue has been sent yet)
+Subscription Process Information
+Date/time of the original subscribe request
+Date/time of the last subscribe date/time
+Email address used for the subscription request
+IP Address used for the subscription request
+Whether the subscription came via web or email
+Date/time of the subscription confirmation
+Email Address used to confirm subscription
+IP Address used to confirm the subscription
+Unsubscription Process Information
+Date/Time of an unsubscription request
+Email address specified for the unsubscription
+Whether the unsubscription came via web or email
+Date/Time of the unsubscription confirmation
+Email Address used to confirm unsubscription
+IP Address used to confirm the unsubscription
+Unsubscribe reason
+(e.g., by your request, because of bounces)
+Pending Confirmation Information
+Number of Confirmation Reminders sent
+Date/Time of the Last Confirmation Reminder sent
+Miscellaneous Information
+Date/Time of last action on the subscription
+Number of bounces detected
+Administrative notes
+NB: I am able to keep this information because the Gammadyne Mailer lets me customize the database and program special functions.
+Information Collected Through My Guestbook
+If you sign my Guestbook, the Guestbook will show whatever information you leave. If you leave me your email address, it will show your email address. If you leave your name, it will show that. If you leave the URL of your website, it will show that. If you leave your name, your dog's name and your birthday, it will show that.
+In addition, it will show the TCP/IP address you use to post as well as information your browser supplies about the browser.
+Information Collected Through email to Me
+If you send me an email, I will have your email address as well as anything else you tell me.
+** Cookies **
+I don't use cookies. Period.
+** Children's Data **
+I don't knowingly collect data from children. I use simple tools to discourage disclosure by children. And, if I discover personal data from children, I delete it. For more information, see my COPPA Cabana page.
+** Information Not Collected **
+I don't collect anything else.
+I don't have any "real" registration forms for you to fill out.
+(I do have parody and joke forms like my McDonnell Douglas Military Aircraft Warranty Card. But the information you fill out there, doesn't really go anywhere and isn't kept.)
+Use of Collected Information
+** Use of Webserver Information **
+When you click around my site, my server log files record how you clicked around. But the information doesn't tell me who you are, only that someone went from one page to another. And I only use that information to analyze traffic and don't keep it or use it beyond that.
+Also, you can block that information using a tool like AdSubtract.
+If you don't send that information, there are no consequences. I do not require disclosure of that information to browse my site.
+** Use of email/ezine List Information **
+My email/ezine lists are is compiled through requests to me. I only use this information to email email/ezine lists (e.g., _Snippets _ and TestZine).
+If you don't give me your email address, I won't be able to email you. But there are no other consequences. I do not require disclosure of that information to browse my site.
+** Use of Site Guestbook Information **
+If you leave me your email address, I will send you a thank you email for signing my Guestbook. If you leave me your website URL, I might visit your site. If you tell me how to win the lottery, I might try your technique.
+But, I won't put you on an email list or sell my Guestbook information. (Of course, anyone who wants my Guestbook information can get it directly off the Guestbook without asking!)
+If you don't sign my Guestbook, the whole world won't see your personal information. But there are no other consequences. I do not require disclosure of that information to browse my site.
+** Use of email Information **
+If you write me an email, I'll use the information in that email to write you back. Unless you ask me to, I won't put you on an email list. And I won't chare that information with other people.
+If you don't write me an email, nothing bad happens. There are no other consequences. I do not require disclosure of that information to browse my site.
+** Other Links **
+This site contains links to other sites. Unfortunately, I can't do much about the privacy practices of such websites. So you all be careful out there.
+When you link through my site to other sites (e.g., Amazon.com) your browser may tell the other site that you came from one of my pages. This is called referrer information.
+Now, I don't actually send that information; your browser does. But you should know that it is possible for you to block this information. To find out how, see my information on the tool AdSubtract.
+This site doesn't send any personal information to other sites partners.
+** Security **
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+For example, my Internet Presence Provider provides userid and password access control to all web captured information (TCP/IP address information). Also, I am the only one with access to my email/ezine lists (e.g., _Snippets _ and TestZine).
+** Choice/Opt-Out **
+** Opt-Out of email/ezine Lists **
+You may opt out of my email/ezine lists (e.g., _Snippets _ and TestZine) by following the directions included in every mailing.
+each ezine supports an email based unsubscribe and a web based unsubscribe.
+You can also email me.
+** Opt-Out of Guestbook **
+There is no "automatic" way to remove your information from my Guestbook. However, you may email me and I will gladly remove your entry.
+** Correct/Update **
+** Correction of Snippets **
+You correct your information for my email/ezine lists (e.g., _Snippets _ and TestZine) by following the directions included in every mailing.
+You can also email me.
+** Correction of Guestbook **
+There is no "automatic" way to correct your information on my Guestbook. However, you may email me and I will gladly remove your entry.
+Contacting the Website
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can email my special privacy address.
+If You Think I Am Not Following My Policy
+If you feel that I am not following these stated information policies, you may contact
+me at the addresses or phone numbers shown above and below,
+The DMA's Committee on ethical Business Practices at  ethics@The-DMA.org
+state or local chapters of the Better Business Bureau,
+state or local consumer protection office,
+the Federal Trade Commission by phone at 202/FTC-HeLP (202/382.4357) or electronically at http://www.FTC.gov/ftc/complaint.htm
+or my mother (but I'm not gonna help you with that one).
+Privacy Certifications
+This site was reviewed by enonymous.com and rated with the 4-Star and Best Privacy designations. This organization has since disbanded.
+James S. Huggins
+Attn: Privacy Mail Stop 9911
+11150 Beamer Road #109-A2283B
+Houston, Texas 77089-2331
+Email me for my phone number which I keep off the site to reduce sales calls
+Also, click here for my email for any other reason
+270  . 596  . 0140 (fax)
+** Links On My Site **
+COPPA Cabana : Information about and disclosures related to the Children's Online Privacy Protection Act (COPPA).   ««»»
+CIPEATone : Information about and disclosures related to the Consumer Internet Privacy enhancement Act (CIPEA).   ««»»
+OECD Privacy D : Information about and disclosures related to the OECD Privacy Principles.   ««»»
